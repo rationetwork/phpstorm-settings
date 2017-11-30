@@ -6,7 +6,13 @@
       <file name="/Dummy.txt" timestamp="1512051322221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/sql/redirectForLender.sql" timestamp="1512059282162">
+        <mark key="[" line="5" column="80" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/eligibilityResults/index.js" timestamp="1512052914940" />
+      <file name="$USER_HOME$/projects/clearchoice/sql/customerCount.sql" timestamp="1512059199902" />
       <file name="$USER_HOME$/projects/courier/src/tasks/followUp/index.js" timestamp="1512051848064" />
       <file name="$USER_HOME$/projects/clearchoice/client/containers/ExplorePage/ExplorePage.js" timestamp="1512047425813">
         <mark key="[" line="2" column="17" />
@@ -17,8 +23,17 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgQU5EIHBsLmNyZWF0ZWRBdCA8ICcyMDE3LTEyLTAxJwogICAgICBBTkQgcGluZ1Jlc3VsdElkID0gMTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgQU5EIHBsLmNyZWF0ZWRBdCA8ICcyMDE3LTEyLTAxJwogICAgICBBTkQgcGluZ1Jlc3VsdElkID0gMTsK</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>$USER_HOME$/projects/clearchoice/sql</text>
       </register>
     </registers>
     <search>
