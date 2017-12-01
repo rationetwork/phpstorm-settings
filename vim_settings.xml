@@ -12,26 +12,22 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/courier/src/tasks/eligibilityResults/index.js" timestamp="1512052914940" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_64.json" timestamp="1512060762268" />
-      <file name="$USER_HOME$/projects/clearchoice/sql/customerCount.sql" timestamp="1512059199902" />
       <file name="$USER_HOME$/projects/clearchoice/app/integrations/insync/InsyncIntegration.js" timestamp="1512061599235">
         <mark key="[" line="48" column="64" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/courier/src/tasks/followUp/index.js" timestamp="1512051848064" />
       <file name="$USER_HOME$/projects/clearchoice/app/app.js" timestamp="1512061623151">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/redirectCountForLender.js" timestamp="1512060482777">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/projects/clearchoice/app/routes/client/api.js" timestamp="1512119760679">
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/client/containers/ExplorePage/ExplorePage.js" timestamp="1512047425813">
         <mark key="[" line="2" column="17" />
@@ -39,13 +35,24 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/courier/src/tasks/eligibilityResults/index.js" timestamp="1512052914940" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_64.json" timestamp="1512060762268" />
+      <file name="$USER_HOME$/projects/clearchoice/sql/customerCount.sql" timestamp="1512059199902" />
+      <file name="$USER_HOME$/projects/courier/src/tasks/followUp/index.js" timestamp="1512051848064" />
+      <file name="$USER_HOME$/projects/clearchoice/app/middleware/secureRoute.js" timestamp="1512119733713" />
+      <file name="$USER_HOME$/projects/clearchoice/app/data/redirectCountForLender.js" timestamp="1512060482777">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="42" column="5" filename="$USER_HOME$/projects/clearchoice/app/integrations/insync/InsyncIntegration.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRPZk1vbnRoLCBlbmRPZk1vbnRoIH0gZnJvbSAnZGF0ZS1mbnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -54,31 +61,31 @@
         <text>getTodaysPingRequestCount(this.pingCampaign.pingCampaignId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRPZk1vbnRoLCBlbmRPZk1vbnRoIH0gZnJvbSAnZGF0ZS1mbnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlyZWN0Q291bnRGb3JMZW5kZXIgZnJvbSAnLi9kYXRhL3JlZGlyZWN0Q291bnRGb3JMZW5kZXInOwppbXBvcnQgdXRjU3RyaW5nIGZyb20gJy4vdXRpbC91dGNTdHJpbmcnOwo=</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ZWQgPSAncDIzbmVyeU5yVU55aFFKNnRXRjJycG10VUg1OEQ2QkInOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLmdldCgnL3Rlc3QnLCBhc3luYyAocmVxLCByZXMpID0+IHsKICB0cnkgewogICAgY29uc3QgdG9kYXkgPSBuZXcgRGF0ZSgpOwoKICAgIGNvbnN0IHN0YXJ0RGF0ZSA9IHV0Y1N0cmluZyhzdGFydE9mTW9udGgodG9kYXkpKTsKICAgIGNvbnN0IGVuZERhdGUgPSB1dGNTdHJpbmcoZW5kT2ZNb250aCh0b2RheSkpOwoKICAgIGNvbnN0IGNvdW50ID0gYXdhaXQgcmVkaXJlY3RDb3VudEZvckxlbmRlcignNjAyOTA0MmYtYjQ4Yi00YmE3LTkzYmItYmNmZjc2ZTMyZTViJywgc3RhcnREYXRlLCBlbmREYXRlKTsKCiAgICByZXMuanNvbihjb3VudCk7CiAgfSBjYXRjaCAoZSkgewogICAgY29uc29sZS5sb2coZSk7CiAgICByZXMuc2VuZChlKTsKICB9Cn0pOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2VjdXJlUm91dGUocmVxLCByZXMsIG5leHQpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXNjYXBlIH0gZnJvbSAnanNvbnRveG1sJzsKaW1wb3J0IHsgcGFyc2VTdHJpbmcgfSBmcm9tICd4bWwyanMnOwo=</text>
+        <text encoding="base64">ICBjb25zdCBhY3R1YWwgPSByZXEuZ2V0KCd4LWNjLWtleScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRPZk1vbnRoLCBlbmRPZk1vbnRoIH0gZnJvbSAnZGF0ZS1mbnMnOwo=</text>
+        <text encoding="base64">ICBjb25zdCBhY3R1YWwgPSByZXEuZ2V0KCd4LWNjLWtleScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBhY3R1YWwgPSByZXEuZ2V0KCd4LWNjLWtleScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlZGlyZWN0c1RoaXNNb250aCA9IGF3YWl0IHJlZGlyZWN0Q291bnRGb3JMZW5kZXIoJycsIHN0YXJ0RGF0ZSwgZW5kRGF0ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc3RhcnRPZk1vbnRoLCBlbmRPZk1vbnRoIH0gZnJvbSAnZGF0ZS1mbnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZ2V0VG9kYXlzUGluZ1JlcXVlc3RDb3VudCh0aGlzLnBpbmdDYW1wYWlnbi5waW5nQ2FtcGFpZ25JZCkudGhlbigoY291bnQpID0+IHsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZGlyZWN0Q291bnRGb3JMZW5kZXIgZnJvbSAnLi9kYXRhL3JlZGlyZWN0Q291bnRGb3JMZW5kZXInOwppbXBvcnQgdXRjU3RyaW5nIGZyb20gJy4vdXRpbC91dGNTdHJpbmcnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
