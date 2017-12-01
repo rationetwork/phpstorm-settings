@@ -15,6 +15,12 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/client/redux/reducers/explore.js" timestamp="1512134672891">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="102" column="41" />
+        <mark key="^" line="102" column="41" />
+        <mark key="." line="102" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/app/data/customersMinOneRedirectCount.js" timestamp="1512131733762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -33,11 +39,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/routes/client/api.js" timestamp="1512132736657">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="6" column="42" />
+      <file name="$USER_HOME$/projects/clearchoice/app/routes/client/api.js" timestamp="1512134580585">
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="74" column="6" />
+        <mark key="." line="74" column="6" />
+        <mark key="^" line="74" column="6" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/app/util/percent.js" timestamp="1512129718649">
         <mark key="[" line="3" column="50" />
