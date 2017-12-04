@@ -3,258 +3,147 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/acceptsCount.js" timestamp="1512121407704">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/util/percent.test.js" timestamp="1512129700301">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="47" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/redux/reducers/explore.js" timestamp="1512134672891">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="102" column="41" />
-        <mark key="^" line="102" column="41" />
-        <mark key="." line="102" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/customersMinOneRedirectCount.js" timestamp="1512131733762">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/primaryAcceptAndRedirectRates.js" timestamp="1512132745644">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/containers/NavBar/NavBar.js" timestamp="1512384076817">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="36" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/integrations/insync/InsyncIntegration.js" timestamp="1512061599235">
-        <mark key="[" line="48" column="64" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/routes/client/api.js" timestamp="1512134580585">
-        <mark key="[" line="75" column="23" />
-        <mark key="]" line="74" column="6" />
-        <mark key="." line="74" column="6" />
-        <mark key="^" line="74" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/util/percent.js" timestamp="1512129718649">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="48" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/containers/StatsBetaPage/StatsBetaPage.js" timestamp="1512384222104">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/customersCount.js" timestamp="1512121621700">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/sql/customersMinOneRedirectCount.sql" timestamp="1512131655675">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/containers/ExplorePage/ExplorePage.js" timestamp="1512047425813">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="20" />
-        <mark key="." line="60" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/sql/customersAtLeastOneRedirectCount.sql" timestamp="1512131499320">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/acceptCount.js" timestamp="1512121821140">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/customerCount.js" timestamp="1512122510883">
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/sql/customerCount.sql" timestamp="1512121837082">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/containers/StatsBeta/StatsBeta.js" timestamp="1512381137056">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/uniqueRedirectCount.js" timestamp="1512131544820">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="67" />
-        <mark key="^" line="3" column="67" />
-        <mark key="." line="3" column="67" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_65.json" timestamp="1512120670924">
+      <file name="/Dummy.txt" timestamp="1511969469841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/sql/uniqueRedirects.sql" timestamp="1512121054363">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/sql/acceptedCustomerCount.sql" timestamp="1512121424386">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="39" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/sql/uniqueRedirectsForEmailAddress.sql" timestamp="1512130251435">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/rates.js" timestamp="1512132015016">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/components/StatsBeta.js" timestamp="1512381074178">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/containers/ApplicationsPage/ApplicationsPage.js" timestamp="1512380980215">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/sql/uniqueRedirectCount.sql" timestamp="1512132521497">
-        <mark key="[" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/primaryAndRedirectRates.js" timestamp="1512132676442">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/redirectCountForLender.js" timestamp="1512122478302">
-        <mark key="[" line="3" column="66" />
-        <mark key="]" line="3" column="67" />
-        <mark key="^" line="3" column="67" />
-        <mark key="." line="3" column="67" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/uniqueRedirects.js" timestamp="1512121187540">
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" timestamp="1511283282984">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/accepts.js" timestamp="1512121250059">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/rsync-config.json" timestamp="1511270758551">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="81" />
+        <mark key="^" line="4" column="81" />
+        <mark key="." line="4" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/client.js" timestamp="1512383903250">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="27" column="27" />
-        <mark key="^" line="27" column="27" />
-        <mark key="." line="27" column="27" />
+      <file name="$USER_HOME$/projects/choose-wisely/package.json" timestamp="1511272014683">
+        <mark key="[" line="55" column="5" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/routes/ChooseWisely.php" timestamp="1511282862262">
+        <mark key="[" line="113" column="23" />
+        <mark key="]" line="113" column="29" />
+        <mark key="." line="113" column="29" />
+        <mark key="^" line="113" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/clearChoice.js" timestamp="1511791507989">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" timestamp="1511791211988">
+        <mark key="'" line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/css/connect-popover.scss" timestamp="1511969645222">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="140" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="5" filename="$USER_HOME$/projects/clearchoice/app/integrations/insync/InsyncIntegration.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/clearchoice/sql/uniqueRedirects.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clearchoice/sql/uniqueRedirects.sql" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/clearchoice/sql/uniqueRedirects.sql" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/clearchoice/app/data/rates.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clearchoice/app/data/rates.js" />
+      <jump line="23" column="22" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" />
+      <jump line="92" column="16" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="8" column="1" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="60" column="3" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="104" column="52" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="477" column="27" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="0" column="15" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" />
+      <jump line="326" column="59" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceResults/ResultRowStyled.js" />
+      <jump line="7" column="33" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="5" column="21" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="19" column="50" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="95" column="30" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="484" column="6" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="504" column="13" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="-" type="4">
-        <text>c</text>
-      </register>
-      <register name="0" type="4">
-        <text>getTodaysPingRequestCount(this.pingCampaign.pingCampaignId)</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIAogICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgZGF0YTogW10KICAgIH0KICB9CiAgCiAgZmV0Y2hEYXRhKCkgewogICAgLy8gZmV0Y2ggc29tZSBkYXRhCiAgICAKICAgIC8vIGNhbGwgc2V0IHN0YXRlCiAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGhpc3RvcnkgZnJvbSAnLi4vLi4vaGlzdG9yeSc7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtMaW5rfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>variantNumber</text>
+      </register>
+      <register name="/" type="4">
+        <text>storage</text>
+      </register>
+      <register name="0" type="4">
+        <text>variantNumber === eligibilityVariantNumber</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2YgdmFyaWFudE51bWJlciwgdHlwZW9mIGVsaWdpYmlsaXR5VmFyaWFudE51bWJlciwgdmFyaWFudE51bWJlciA9PT0gZWxpZ2liaWxpdHlWYXJpYW50TnVtYmVyKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb2E6IGNvYSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBjYW5Vc2VMb2NhbFN0b3JhZ2UgPSAhIXdpbmRvdy5zZXNzaW9uU3RvcmFnZTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3BSZXN1bHQ6IHRvcFJlc3VsdCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuY2xvc2VNYWluTWVudSgpOwogICAgaGlzdG9yeS5wdXNoKCcvcHJpbWUvc3RhdHMtYmV0YScpOwo=</text>
+        <text encoding="base64">ICAgIHZhciAkcG9wb3ZlclRvcFJlc3VsdCA9ICQoJy5jb25uZWN0LXRvcC1yZXN1bHQtcG9wb3ZlcicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvTGluaz4K</text>
+        <text encoding="base64">ICAgIHZhciB0b3BSZXN1bHRWYXJpYW50TnVtYmVyID0gMjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaW5rIHRvPSIiPgo=</text>
+        <text encoding="base64">ICAgIHZhciB0b3BMZW5kZXJTdG9yYWdlTmFtZSA9ICdjb25uZWN0UG9wb3ZlclRvcExlbmRlcjQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>storage</last-search>
+      <last-offset />
+      <last-pattern>storage</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>birth</entry>
+        <entry>isRequireed</entry>
+        <entry>ready</entry>
+        <entry>local</entry>
+        <entry>storage</entry>
+      </history-search>
       <history-cmd>
-        <entry>we</entry>
-        <entry>w</entry>
+        <entry>ew</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
