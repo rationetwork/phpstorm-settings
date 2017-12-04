@@ -1,0 +1,151 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1511969469841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" timestamp="1511283282984">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/rsync-config.json" timestamp="1511270758551">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="81" />
+        <mark key="^" line="4" column="81" />
+        <mark key="." line="4" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/package.json" timestamp="1511272014683">
+        <mark key="[" line="55" column="5" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/routes/ChooseWisely.php" timestamp="1511282862262">
+        <mark key="[" line="113" column="23" />
+        <mark key="]" line="113" column="29" />
+        <mark key="." line="113" column="29" />
+        <mark key="^" line="113" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/clearChoice.js" timestamp="1511791507989">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" timestamp="1511791211988">
+        <mark key="'" line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/css/connect-popover.scss" timestamp="1511969645222">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="140" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="23" column="22" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" />
+      <jump line="92" column="16" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="8" column="1" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="60" column="3" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="104" column="52" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="477" column="27" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="0" column="15" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" />
+      <jump line="326" column="59" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceResults/ResultRowStyled.js" />
+      <jump line="7" column="33" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="5" column="21" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="19" column="50" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="95" column="30" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="484" column="6" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="504" column="13" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>variantNumber</text>
+      </register>
+      <register name="/" type="4">
+        <text>storage</text>
+      </register>
+      <register name="0" type="4">
+        <text>variantNumber === eligibilityVariantNumber</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2YgdmFyaWFudE51bWJlciwgdHlwZW9mIGVsaWdpYmlsaXR5VmFyaWFudE51bWJlciwgdmFyaWFudE51bWJlciA9PT0gZWxpZ2liaWxpdHlWYXJpYW50TnVtYmVyKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb2E6IGNvYSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBjYW5Vc2VMb2NhbFN0b3JhZ2UgPSAhIXdpbmRvdy5zZXNzaW9uU3RvcmFnZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0b3BSZXN1bHQ6IHRvcFJlc3VsdCwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciAkcG9wb3ZlclRvcFJlc3VsdCA9ICQoJy5jb25uZWN0LXRvcC1yZXN1bHQtcG9wb3ZlcicpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciB0b3BSZXN1bHRWYXJpYW50TnVtYmVyID0gMjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhciB0b3BMZW5kZXJTdG9yYWdlTmFtZSA9ICdjb25uZWN0UG9wb3ZlclRvcExlbmRlcjQnOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>storage</last-search>
+      <last-offset />
+      <last-pattern>storage</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>birth</entry>
+        <entry>isRequireed</entry>
+        <entry>ready</entry>
+        <entry>local</entry>
+        <entry>storage</entry>
+      </history-search>
+      <history-cmd>
+        <entry>ew</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
