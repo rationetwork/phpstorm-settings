@@ -33,6 +33,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/client/containers/NavBar/NavBar.js" timestamp="1512384076817">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="36" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/app/integrations/insync/InsyncIntegration.js" timestamp="1512061599235">
         <mark key="[" line="48" column="64" />
         <mark key="]" line="47" column="0" />
@@ -50,6 +56,12 @@
         <mark key="]" line="3" column="48" />
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/client/containers/StatsBetaPage/StatsBetaPage.js" timestamp="1512384222104">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/app/data/customersCount.js" timestamp="1512121621700">
         <mark key="[" line="16" column="9" />
@@ -93,12 +105,20 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/acceptRateByDateRange.js" timestamp="1512121529518" />
+      <file name="$USER_HOME$/projects/clearchoice/client/containers/StatsBeta/StatsBeta.js" timestamp="1512381137056">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/app/data/uniqueRedirectCount.js" timestamp="1512131544820">
         <mark key="[" line="3" column="65" />
         <mark key="]" line="3" column="67" />
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_65.json" timestamp="1512120670924">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/sql/uniqueRedirects.sql" timestamp="1512121054363">
         <mark key="[" line="7" column="38" />
@@ -125,8 +145,17 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_65.json" timestamp="1512120670924">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/clearchoice/client/components/StatsBeta.js" timestamp="1512381074178">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/client/containers/ApplicationsPage/ApplicationsPage.js" timestamp="1512380980215">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/sql/uniqueRedirectCount.sql" timestamp="1512132521497">
         <mark key="[" line="8" column="24" />
@@ -155,6 +184,12 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/client/client.js" timestamp="1512383903250">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="42" column="5" filename="$USER_HOME$/projects/clearchoice/app/integrations/insync/InsyncIntegration.js" />
@@ -166,7 +201,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdHM6IHRvdGFsUmVkaXJlY3RzLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -175,31 +210,31 @@
         <text>getTodaysPingRequestCount(this.pingCampaign.pingCampaignId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdHM6IHRvdGFsUmVkaXJlY3RzLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbFJlZGlyZWN0cywK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIAogICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgZGF0YTogW10KICAgIH0KICB9CiAgCiAgZmV0Y2hEYXRhKCkgewogICAgLy8gZmV0Y2ggc29tZSBkYXRhCiAgICAKICAgIC8vIGNhbGwgc2V0IHN0YXRlCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1bmlxdWVSZWRpcmVjdHMoc3RhcnREYXRlLCBlbmREYXRlKSwK</text>
+        <text encoding="base64">aW1wb3J0IGhpc3RvcnkgZnJvbSAnLi4vLi4vaGlzdG9yeSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXF1ZVJlZGlyZWN0cyBmcm9tICcuL3VuaXF1ZVJlZGlyZWN0Q291bnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtMaW5rfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NlcHRSYXRlOiBwZXJjZW50KHRvdGFsQWNjZXB0cywgdG90YWxDdXN0b21lcnMpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm91bmQgfSBmcm9tICdsb2Rhc2gnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWNjZXB0UmF0ZSwK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuY2xvc2VNYWluTWVudSgpOwogICAgaGlzdG9yeS5wdXNoKCcvcHJpbWUvc3RhdHMtYmV0YScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWNjZXB0UmF0ZUJ5RGF0ZVJhbmdlKHN0YXJ0RGF0ZSwgZW5kRGF0ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvTGluaz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFjY2VwdFJhdGVCeURhdGVSYW5nZSBmcm9tICcuLi8uLi9kYXRhL2FjY2VwdFJhdGVCeURhdGVSYW5nZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxMaW5rIHRvPSIiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -212,7 +247,9 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>we</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
