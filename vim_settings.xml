@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1511969469841">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/courier/src/tasks/clearchoiceResults/index.js" timestamp="1512397062608">
+        <mark key="[" line="125" column="32" />
+        <mark key="]" line="126" column="22" />
+        <mark key="." line="126" column="22" />
+        <mark key="^" line="126" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" timestamp="1511283282984">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,16 +39,11 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
-        <mark key="[" line="64" column="57" />
-        <mark key="]" line="64" column="57" />
-        <mark key="." line="64" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/containers/StatsBetaPage/StatsBetaPage.js" timestamp="1512384419217">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/projects/clearchoice/client/containers/StatsBetaPage/StatsBetaPage.js" timestamp="1512384773052">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" timestamp="1511791211988">
         <mark key="'" line="23" column="22" />
@@ -57,6 +58,47 @@
         <mark key="]" line="141" column="0" />
         <mark key="^" line="140" column="0" />
         <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/courier/src/tasks/results/index.js" timestamp="1512397036724">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="22" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/courier/src/server.js" timestamp="1512397348463">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/courier/src/tasks/resultsStats/resultsStats.js" timestamp="1512405123768">
+        <mark key="[" line="27" column="65" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/courier/src/tasks/eligibilityResults/index.js" timestamp="1512397018472">
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="12" />
+        <mark key="^" line="72" column="12" />
+        <mark key="." line="72" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/client/client.js" timestamp="1512392081093">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/client/redux/store.js" timestamp="1512392181973">
+        <mark key="[" line="24" column="70" />
+        <mark key="]" line="24" column="70" />
+        <mark key="^" line="24" column="70" />
+        <mark key="." line="24" column="70" />
       </file>
     </filemarks>
     <jumps>
@@ -79,11 +121,11 @@
       <jump line="504" column="13" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>variantNumber</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
@@ -95,28 +137,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2YgdmFyaWFudE51bWJlciwgdHlwZW9mIGVsaWdpYmlsaXR5VmFyaWFudE51bWJlciwgdmFyaWFudE51bWJlciA9PT0gZWxpZ2liaWxpdHlWYXJpYW50TnVtYmVyKTsK</text>
+        <text encoding="base64">c2V0SW50ZXJ2YWwoKCkgPT4gewogIC8vIHJlc3RhcnQgZXZlcnkgNSBtaW5zIHRvIGZpeCBteXN0ZXJ5IG5vdCBzZW5kaW5nIGJ1ZwogIHByb2Nlc3MuZXhpdCgwKTsKfSwgNSAqIDYwICogMTAwMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2E6IGNvYSwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ01BTkRSSUxMJywgZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ01BTkRSSUxMJywgZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBjYW5Vc2VMb2NhbFN0b3JhZ2UgPSAhIXdpbmRvdy5zZXNzaW9uU3RvcmFnZTsK</text>
+        <text encoding="base64">ICAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXVuZGVmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b3BSZXN1bHQ6IHRvcFJlc3VsdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciAkcG9wb3ZlclRvcFJlc3VsdCA9ICQoJy5jb25uZWN0LXRvcC1yZXN1bHQtcG9wb3ZlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2YgdmFyaWFudE51bWJlciwgdHlwZW9mIGVsaWdpYmlsaXR5VmFyaWFudE51bWJlciwgdmFyaWFudE51bWJlciA9PT0gZWxpZ2liaWxpdHlWYXJpYW50TnVtYmVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB0b3BSZXN1bHRWYXJpYW50TnVtYmVyID0gMjsK</text>
+        <text encoding="base64">ICAgICAgICBjb2E6IGNvYSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0b3BMZW5kZXJTdG9yYWdlTmFtZSA9ICdjb25uZWN0UG9wb3ZlclRvcExlbmRlcjQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
