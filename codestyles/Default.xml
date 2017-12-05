@@ -1,5 +1,9 @@
 <code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
