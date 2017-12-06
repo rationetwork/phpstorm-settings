@@ -30,8 +30,6 @@
         <mark key="^" line="55" column="64" />
         <mark key="." line="55" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/data/primaryAcceptAndRedirectRates.js" timestamp="1512485308655" />
-      <file name="$USER_HOME$/projects/clearchoice/app/integrations/insync/InsyncIntegration.js" timestamp="1512406955777" />
       <file name="$USER_HOME$/projects/clearchoice/app/routes/client/base.html" timestamp="1512487462019">
         <mark key="[" line="12" column="51" />
         <mark key="]" line="13" column="38" />
@@ -68,7 +66,6 @@
         <mark key="." line="23" column="2" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.json" timestamp="1512466480608" />
       <file name="$USER_HOME$/projects/courier/src/tasks/eligibilityResults/index.js" timestamp="1512397018472">
         <mark key="[" line="72" column="12" />
         <mark key="]" line="72" column="12" />
@@ -80,6 +77,12 @@
         <mark key="]" line="1" column="49" />
         <mark key="^" line="1" column="49" />
         <mark key="." line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/redirects.js" timestamp="1512557377714">
+        <mark key="[" line="149" column="6" />
+        <mark key="]" line="149" column="103" />
+        <mark key="^" line="149" column="103" />
+        <mark key="." line="149" column="103" />
       </file>
       <file name="/Dummy.txt" timestamp="1512490838634">
         <mark key="[" line="0" column="0" />
@@ -105,14 +108,24 @@
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/config/dbConfig.json" timestamp="1512482424560" />
+      <file name="$USER_HOME$/projects/clearchoice/app/constants/lenders.js" timestamp="1512556341892">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/routes/saveSecondaryRedirect.js" timestamp="1512556910182">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="^" line="140" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Carter/modules/ReviewsPrepare/orderReviews.js" timestamp="1512490830255" />
       <file name="$USER_HOME$/projects/Carter/config/main.js" timestamp="1512491334361">
         <mark key="[" line="170" column="24" />
         <mark key="]" line="170" column="24" />
@@ -218,8 +231,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ratioReadWrite:o0cgA3jVHFm2vMC6@</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyB1c2UgY3VzdG9tZXIgaWQK</text>
       </register>
       <register name="-" type="4">
         <text>ratioReadWrite:o0cgA3jVHFm2vMC6@</text>
@@ -231,31 +244,36 @@
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wcmltZS9zdGF0cy1iZXRhIiBjb21wb25lbnQ9e1N0YXRzQmV0YX0gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB1c2UgY3VzdG9tZXIgaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1VTRSBQUk9EJykK</text>
+        <text encoding="base64">ICAvLyBSZWplY3QgaWYgY3VzdG9tZXIgbm90IGZvdW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1VTRSBQUk9EJykK</text>
+        <text encoding="base64">ICAvLyBMb29rIHVwIGN1c3RvbWVyCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdkJhciBmcm9tICcuLi9OYXZCYXIvTmF2QmFyJzsK</text>
+        <text encoding="base64">ICBjb25zdCBjdXN0b21lcklkID0gY3VzdG9tZXIuaWQ7CiAgLy8gaWYgbm8gY3VzdG9tZXIgaWQgdGhlbiByZWNvcmQgZXJyb3IgYW5kIHJldHVybiBmYWxzZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2QmFyIC8+Cg==</text>
+      <register name="6" type="4">
+        <text>models.customers.findOne({
+    where: {
+      customerUid,
+    },
+    raw: true,
+  }); // Need a catch?</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJpbWUvbG9naW4iIGNvbXBvbmVudD17TG9naW5QYWdlfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgbG9nRXJyb3IoYENvdWxkIG5vdCBmaW5kIGEgY3VzdG9tZXIgb24gYSBzZWNvbmRhcnkgcmVkaXJlY3QgJHtjdXN0b21lclVpZH1gKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wcmltZS9zdGF0cy1iZXRhIiBjb21wb25lbnQ9e1N0YXRzQmV0YX0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L0Jhc2VQYWdlPgo=</text>
+        <text encoding="base64">ICBjb25zdCBjdXN0b21lciA9IGF3YWl0IG1vZGVscy5jdXN0b21lcnMuZmluZE9uZSh7CiAgICB3aGVyZTogewogICAgICBjdXN0b21lckd1aWQsCiAgICB9LAogICAgcmF3OiB0cnVlLAogIH0pOwoKICBpZiAoaXNOdWxsKGN1c3RvbWVyKSkgewogICAgbG9nRXJyb3IoYENvdWxkIG5vdCBmaW5kIGEgY3VzdG9tZXIgb24gYSBzZWNvbmRhcnkgcmVkaXJlY3QgJHtjdXN0b21lclVpZH1gKTsKICAgIHJldHVybiBmYWxzZTsKICB9CgogIGNvbnN0IGN1c3RvbWVySWQgPSBjdXN0b21lci5pZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
