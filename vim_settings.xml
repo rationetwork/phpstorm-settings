@@ -56,6 +56,12 @@
         <mark key="^" line="77" column="22" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/Carter/modules/ReviewsPrepare/filterReviews.js" timestamp="1512490619155">
+        <mark key="[" line="32" column="69" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/courier/src/server.js" timestamp="1512397348463">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="2" />
@@ -75,7 +81,7 @@
         <mark key="^" line="1" column="49" />
         <mark key="." line="1" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511969469841">
+      <file name="/Dummy.txt" timestamp="1512490838634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/clearchoiceResults/index.js" timestamp="1512397062608">
@@ -105,6 +111,13 @@
         <mark key="]" line="141" column="0" />
         <mark key="^" line="140" column="0" />
         <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Carter/modules/ReviewsPrepare/orderReviews.js" timestamp="1512490830255" />
+      <file name="$USER_HOME$/projects/Carter/config/main.js" timestamp="1512491334361">
+        <mark key="[" line="170" column="24" />
+        <mark key="]" line="170" column="24" />
+        <mark key="^" line="170" column="70" />
+        <mark key="." line="170" column="24" />
       </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/resultsStats/resultsStats.js" timestamp="1512405602709">
         <mark key="[" line="28" column="33" />
@@ -142,11 +155,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/client/client.js" timestamp="1512487359437">
-        <mark key="[" line="12" column="51" />
-        <mark key="]" line="12" column="63" />
-        <mark key="." line="12" column="63" />
-        <mark key="^" line="12" column="63" />
+      <file name="$USER_HOME$/projects/clearchoice/client/client.js" timestamp="1512488276706">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/projects/courier/src/lib/sheets/updateSheet.js" timestamp="1512405460453">
         <mark key="[" line="86" column="0" />
@@ -160,8 +173,11 @@
         <mark key="^" line="0" column="70" />
         <mark key="." line="0" column="70" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.txt" timestamp="1512471692692">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/Carter/modules/dbmongo.js" timestamp="1512491586867">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -202,11 +218,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ratioReadWrite:o0cgA3jVHFm2vMC6@</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>ratioReadWrite:o0cgA3jVHFm2vMC6@</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
@@ -218,28 +234,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdkJhciBmcm9tICcuLi9OYXZCYXIvTmF2QmFyJzsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1VTRSBQUk9EJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2QmFyIC8+Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1VTRSBQUk9EJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJpbWUvbG9naW4iIGNvbXBvbmVudD17TG9naW5QYWdlfSAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wcmltZS9zdGF0cy1iZXRhIiBjb21wb25lbnQ9e1N0YXRzQmV0YX0gLz4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L0Jhc2VQYWdlPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8QmFzZVBhZ2U+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IE5hdkJhciBmcm9tICcuLi9OYXZCYXIvTmF2QmFyJzsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8TmF2QmFyIC8+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJpbWUvbG9naW4iIGNvbXBvbmVudD17TG9naW5QYWdlfSAvPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wcmltZS9zdGF0cy1iZXRhIiBjb21wb25lbnQ9e1N0YXRzQmV0YX0gLz4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8L0Jhc2VQYWdlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
