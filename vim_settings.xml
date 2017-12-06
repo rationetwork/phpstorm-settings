@@ -30,6 +30,9 @@
         <mark key="^" line="55" column="64" />
         <mark key="." line="55" column="64" />
       </file>
+      <file name="/a.dummy" timestamp="1512557634061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/app/routes/client/base.html" timestamp="1512487462019">
         <mark key="[" line="12" column="51" />
         <mark key="]" line="13" column="38" />
@@ -42,6 +45,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/constants/pingResponseCodes.js" timestamp="1512565668103" />
       <file name="$USER_HOME$/projects/clearchoice/client/containers/ExplorePage/ExplorePage.js" timestamp="1512486990698">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -66,6 +70,12 @@
         <mark key="." line="23" column="2" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/models/redirect.js" timestamp="1512557924505">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/eligibilityResults/index.js" timestamp="1512397018472">
         <mark key="[" line="72" column="12" />
         <mark key="]" line="72" column="12" />
@@ -78,13 +88,13 @@
         <mark key="^" line="1" column="49" />
         <mark key="." line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/redirects.js" timestamp="1512557377714">
-        <mark key="[" line="149" column="6" />
-        <mark key="]" line="149" column="103" />
-        <mark key="^" line="149" column="103" />
-        <mark key="." line="149" column="103" />
+      <file name="$USER_HOME$/projects/clearchoice/app/redirects.js" timestamp="1512561296046">
+        <mark key="[" line="169" column="34" />
+        <mark key="]" line="170" column="3" />
+        <mark key="^" line="170" column="3" />
+        <mark key="." line="170" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512490838634">
+      <file name="/Dummy.txt" timestamp="1512565629051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/clearchoiceResults/index.js" timestamp="1512397062608">
@@ -96,7 +106,7 @@
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" timestamp="1511283282984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/models/customers.js" timestamp="1512474146334">
+      <file name="$USER_HOME$/projects/clearchoice/app/models/customers.js" timestamp="1512557908656">
         <mark key="[" line="95" column="10" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
@@ -232,7 +242,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyB1c2UgY3VzdG9tZXIgaWQK</text>
+        <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IGlwQWRkcmVzcyAtIHRoZSBpcCBvZiB0aGUgdXNlciByZWRpcmVjdGluZwo=</text>
       </register>
       <register name="-" type="4">
         <text>ratioReadWrite:o0cgA3jVHFm2vMC6@</text>
@@ -241,24 +251,27 @@
         <text>storage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wcmltZS9zdGF0cy1iZXRhIiBjb21wb25lbnQ9e1N0YXRzQmV0YX0gLz4K</text>
+        <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IGlwQWRkcmVzcyAtIHRoZSBpcCBvZiB0aGUgdXNlciByZWRpcmVjdGluZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB1c2UgY3VzdG9tZXIgaWQK</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0Q3VzdG9tZXJJZEZyb21DdXN0b21lckd1aWQoY3VzdG9tZXJHdWlkKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKGFzeW5jIChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGNvbnN0IGN1c3RvbWVyID0gYXdhaXQgbW9kZWxzLmN1c3RvbWVycy5maW5kT25lKHsKICAgICAgd2hlcmU6IHsKICAgICAgICBjdXN0b21lckd1aWQsCiAgICAgIH0sCiAgICAgIHJhdzogdHJ1ZSwKICAgIH0pOwoKICAgIGlmIChpc051bGwoY3VzdG9tZXIpKSB7CiAgICAgIHJldHVybiByZWplY3QoKTsKICAgIH0KCiAgICByZXR1cm4gcmVzb2x2ZShjdXN0b21lci5pZCk7CiAgfSk7Cn0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBSZWplY3QgaWYgY3VzdG9tZXIgbm90IGZvdW5kCg==</text>
+        <text encoding="base64">ICAvLyB1c2UgY3VzdG9tZXIgaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBMb29rIHVwIGN1c3RvbWVyCg==</text>
+        <text encoding="base64">ICAvLyBSZWplY3QgaWYgY3VzdG9tZXIgbm90IGZvdW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBMb29rIHVwIGN1c3RvbWVyCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCBjdXN0b21lcklkID0gY3VzdG9tZXIuaWQ7CiAgLy8gaWYgbm8gY3VzdG9tZXIgaWQgdGhlbiByZWNvcmQgZXJyb3IgYW5kIHJldHVybiBmYWxzZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>models.customers.findOne({
     where: {
       customerUid,
@@ -266,14 +279,11 @@
     raw: true,
   }); // Need a catch?</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgbG9nRXJyb3IoYENvdWxkIG5vdCBmaW5kIGEgY3VzdG9tZXIgb24gYSBzZWNvbmRhcnkgcmVkaXJlY3QgJHtjdXN0b21lclVpZH1gKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXN0b21lciA9IGF3YWl0IG1vZGVscy5jdXN0b21lcnMuZmluZE9uZSh7CiAgICB3aGVyZTogewogICAgICBjdXN0b21lckd1aWQsCiAgICB9LAogICAgcmF3OiB0cnVlLAogIH0pOwoKICBpZiAoaXNOdWxsKGN1c3RvbWVyKSkgewogICAgbG9nRXJyb3IoYENvdWxkIG5vdCBmaW5kIGEgY3VzdG9tZXIgb24gYSBzZWNvbmRhcnkgcmVkaXJlY3QgJHtjdXN0b21lclVpZH1gKTsKICAgIHJldHVybiBmYWxzZTsKICB9CgogIGNvbnN0IGN1c3RvbWVySWQgPSBjdXN0b21lci5pZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
