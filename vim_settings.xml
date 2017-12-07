@@ -33,11 +33,23 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1512387869402">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="553" column="37" />
-        <mark key="^" line="553" column="37" />
-        <mark key="." line="553" column="37" />
+      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/ClearChoice/FormClearChoiceMapper.php" timestamp="1512474339224">
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/ClearChoiceController.php" timestamp="1512472995702">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1512472902471">
+        <mark key="'" line="570" column="0" />
+        <mark key="[" line="606" column="36" />
+        <mark key="]" line="606" column="36" />
+        <mark key="^" line="606" column="36" />
+        <mark key="." line="606" column="36" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" timestamp="1511791211988">
         <mark key="'" line="23" column="22" />
@@ -46,6 +58,11 @@
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/ClearChoice/ClearChoiceHelper.php" timestamp="1512475172008">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
         <mark key="[" line="141" column="0" />
@@ -70,6 +87,12 @@
         <mark key="." line="145" column="0" />
         <mark key="^" line="145" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/sls/loans.js" timestamp="1512394295627">
+        <mark key="[" line="692" column="21" />
+        <mark key="]" line="691" column="65" />
+        <mark key="." line="691" column="65" />
+        <mark key="^" line="691" column="65" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="22" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" />
@@ -89,46 +112,50 @@
       <jump line="95" column="30" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
       <jump line="484" column="6" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
       <jump line="504" column="13" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" />
+      <jump line="570" column="0" filename="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="a" type="4">
+        <text>eligibility</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>results</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoCiAgICAgICAgICAgICEkX0NPT0tJRVtzZWxmOjpTTFNfUkVTVUxUU19FTUFJTF9TRU5UX0NPT0tJRV0gJiYKICAgICAgICAgICAgJHJlc3BvbnNlLT5sZW5kZXJDb3VudCA+IDAgJiYKICAgICAgICAgICAgJGN1c3RvbWVyLT5lbWFpbCAmJgogICAgICAgICAgICAhJGFwcGxpY2F0aW9uLT5UYWJ1bGFyQVBJICYmCiAgICAgICAgICAgICR2YXJzWyd1dG1fbWVkaXVtJ10gIT0gJ2VtYWlsJwogICAgICAgICkgewogICAgICAgICAgICBpZiAoJGN1c3RvbWVyLT5maXJzdFBhcnR5TWFya2V0aW5nKSB7CiAgICAgICAgICAgICAgICBcQ1dNYWlsY2hpbXA6OnVwbG9hZFRvTWFpbENoaW1wKCRjdXN0b21lciwgJGFwcGxpY2F0aW9uLCAkdGhpcy0+bWFpbGNoaW1wX2RvdWJsZV9vcHRfaW4pOwogICAgICAgICAgICB9CgogICAgICAgICAgICAkc291cmNlID0gInNvdXJjZS1vcmdhbmljIjsKCiAgICAgICAgICAgIGlmICgkdGhpcy0+aXNfbmV0d29ya190cmFmZmljKSB7CiAgICAgICAgICAgICAgICAkc291cmNlID0gInNvdXJjZS1uZXR3b3JrIjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCR0aGlzLT5pc19wcGNfdHJhZmZpYykgewogICAgICAgICAgICAgICAgJHNvdXJjZSA9ICJzb3VyY2UtcHBjIjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJHJlc3VsdHNEYXRhID0gXENvdXJpZXJcUmVzdWx0c0VtYWlsOjpnZXRSZXN1bHRzRW1haWxEYXRhKAogICAgICAgICAgICAgICAgJGN1c3RvbWVyLT5lbWFpbCwKICAgICAgICAgICAgICAgICRjdXN0b21lci0+Zmlyc3RuYW1lLAogICAgICAgICAgICAgICAgJGFwcGxpY2F0aW9uLT51aWQsCiAgICAgICAgICAgICAgICAkYXBwbGljYXRpb24tPmFwcGxpY2F0aW9uQW1vdW50KCksCiAgICAgICAgICAgICAgICAkYXBwbGljYXRpb24tPmFwcGxpY2F0aW9uUGVyaW9kKCksCiAgICAgICAgICAgICAgICAkcmVzcG9uc2UtPnByaW1hcnlMZW5kZXJzLAogICAgICAgICAgICAgICAgJHNvdXJjZQogICAgICAgICAgICApOwoKICAgICAgICAgICAgJHNlbmRPayA9IFxDb3VyaWVyXENvdXJpZXI6OnNlbmQoJ3Jlc3VsdHMnLCAkcmVzdWx0c0RhdGEpOwoKICAgICAgICAgICAgLy8gd2Ugb25seSB3YW50IHRvIHNlbmQgYSByZXN1bHRzIGVtYWlsIGF0IG1vc3QgZXZlcnkgMzAgbWlucwogICAgICAgICAgICBpZiAoJHNlbmRPaykgewogICAgICAgICAgICAgICAgc2V0Y29va2llKHNlbGY6OlNMU19SRVNVTFRTX0VNQUlMX1NFTlRfQ09PS0lFLCAidHJ1ZSIsIHN0cnRvdGltZSgiKzMwIG1pbnV0ZXMiKSwgJy8nKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkY2NkLT51dG1Tb3VyY2UgPSAkc291cmNlLT51dG1Tb3VyY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHZhcnNbJ3V0bV9tZWRpdW0nXSAhPSAnZW1haWwnCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgISRhcHBsaWNhdGlvbi0+VGFidWxhckFQSSAmJgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgISRfQ09PS0lFW3NlbGY6OlNMU19SRVNVTFRTX0VNQUlMX1NFTlRfQ09PS0lFXSAmJgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIFNvdXJjZVRyYWNraW5nOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPTVBBUkVfQllfUkVTVUxUU19FTUFJTF9TRU5UX0NPT0tJRSA9ICdjb21wYXJlQnlSZXN1bHRzRW1haWxTZW50JzsKICAgIGNvbnN0IEVMSUdJQklMSVRZX0VNQUlMX1NFTlRfQ09PS0lFID0gJ2VsaWdpYmlsaXR5RW1haWxTZW50JzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRydWUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBcVjo6amUoJGFwcGxpY2FudCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkc291cmNlID0gXFNvdXJjZVRyYWNraW5nOjpnZXRTb3VyY2VPYmplY3QoKTsKCiAgICAgICAgXFY6OmRlKCRzb3VyY2UpOwoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBcVjo6ZGUoJGN1c3RvbWVyLT5maXJzdFBhcnR5TWFya2V0aW5nKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjdXN0b21lci0+Zmlyc3RQYXJ0eU1hcmtldGluZykgewogICAgICAgICAgICAgICAgXENXTWFpbGNoaW1wOjp1cGxvYWRUb01haWxDaGltcCgkY3VzdG9tZXIsICRhcHBsaWNhdGlvbiwgJHRoaXMtPm1haWxjaGltcF9kb3VibGVfb3B0X2luKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="8" type="4">
+        <text>eligibility</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2xzIHVybAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcHBsaWNhdGlvbi0+YXBwbGljYXRpb25BbW91bnQoKSwKICAgICAgICAgICAgICAgICRhcHBsaWNhdGlvbi0+YXBwbGljYXRpb25QZXJpb2QoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
