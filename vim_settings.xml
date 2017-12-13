@@ -44,12 +44,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1512472902471">
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1512570431219">
         <mark key="'" line="570" column="0" />
-        <mark key="[" line="606" column="36" />
-        <mark key="]" line="606" column="36" />
-        <mark key="^" line="606" column="36" />
-        <mark key="." line="606" column="36" />
+        <mark key="[" line="588" column="105" />
+        <mark key="]" line="586" column="10" />
+        <mark key="^" line="586" column="10" />
+        <mark key="." line="586" column="10" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" timestamp="1511791211988">
         <mark key="'" line="23" column="22" />
@@ -134,28 +134,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBcVjo6amUoJGFwcGxpY2FudCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc291cmNlID0gXFNvdXJjZVRyYWNraW5nOjpnZXRTb3VyY2VPYmplY3QoKTsKCiAgICAgICAgXFY6OmRlKCRzb3VyY2UpOwoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBcVjo6amUoJGFwcGxpY2FudCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkc291cmNlID0gXFNvdXJjZVRyYWNraW5nOjpnZXRTb3VyY2VPYmplY3QoKTsKCiAgICAgICAgXFY6OmRlKCRzb3VyY2UpOwoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBcVjo6ZGUoJGN1c3RvbWVyLT5maXJzdFBhcnR5TWFya2V0aW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjdXN0b21lci0+Zmlyc3RQYXJ0eU1hcmtldGluZykgewogICAgICAgICAgICAgICAgXENXTWFpbGNoaW1wOjp1cGxvYWRUb01haWxDaGltcCgkY3VzdG9tZXIsICRhcHBsaWNhdGlvbiwgJHRoaXMtPm1haWxjaGltcF9kb3VibGVfb3B0X2luKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBcVjo6ZGUoJGN1c3RvbWVyLT5maXJzdFBhcnR5TWFya2V0aW5nKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjdXN0b21lci0+Zmlyc3RQYXJ0eU1hcmtldGluZykgewogICAgICAgICAgICAgICAgXENXTWFpbGNoaW1wOjp1cGxvYWRUb01haWxDaGltcCgkY3VzdG9tZXIsICRhcHBsaWNhdGlvbiwgJHRoaXMtPm1haWxjaGltcF9kb3VibGVfb3B0X2luKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>eligibility</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcHBsaWNhdGlvbi0+YXBwbGljYXRpb25BbW91bnQoKSwKICAgICAgICAgICAgICAgICRhcHBsaWNhdGlvbi0+YXBwbGljYXRpb25QZXJpb2QoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
