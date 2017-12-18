@@ -83,10 +83,10 @@
         <mark key="." line="145" column="0" />
         <mark key="^" line="145" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/app.js" timestamp="1513349035892">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/projects/clearchoice/app/app.js" timestamp="1513350516903">
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/sql/secondaryRedirectCount.sql" timestamp="1512660923807">
         <mark key="[" line="0" column="40" />
@@ -121,12 +121,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/routes/index.js" timestamp="1513342380611">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice-dashboard/src/RequestTable/Row/Row.js" timestamp="1512654119688">
         <mark key="[" line="130" column="41" />
@@ -165,12 +159,6 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice/package.json" timestamp="1513349543757">
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="5" column="62" />
-        <mark key="^" line="5" column="62" />
-        <mark key="." line="5" column="62" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Courier/ResultsEmail.php" timestamp="1512387202260">
         <mark key="[" line="8" column="137" />
@@ -227,9 +215,9 @@
         <mark key="." line="170" column="24" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/app/middleware/jwtSecure.js" timestamp="1513342247783">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/client/client.js" timestamp="1512488276706">
         <mark key="[" line="11" column="24" />
@@ -433,6 +421,9 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
+      <file name="/JavaScript Console" timestamp="1513350827409">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1513341218636">
         <mark key="[" line="0" column="0" />
       </file>
@@ -445,7 +436,7 @@
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" timestamp="1511283282984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/routes/client/client.js" timestamp="1513344126937">
+      <file name="$USER_HOME$/projects/clearchoice/app/routes/client/client.js" timestamp="1513350858484">
         <mark key="[" line="30" column="97" />
         <mark key="]" line="29" column="22" />
         <mark key="^" line="29" column="22" />
@@ -471,12 +462,6 @@
         <mark key="]" line="8" column="1" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/clearchoice-dashboard/src/App.js" timestamp="1513347185142">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/client/components/GlossaryPage/GlossaryPage.scss" timestamp="1512487517313">
         <mark key="[" line="0" column="0" />
@@ -553,11 +538,11 @@
           <key char="68" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>--inspect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>--inspect</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
@@ -569,28 +554,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgY21kLAogICAgICBwYXJhbXMsCiAgICB9ID0gcGFyc2VNZXNzYWdlKG1lc3NhZ2UpOwoKICAgIGlmIChjbWQgPT09IEpPSU4pIHsKICAgICAgY29uc3QgY2xpZW50SWQgPSBzaG9ydGlkLmdlbmVyYXRlKCk7CiAgICAgIGNvbnN0IGNoYW5uZWwgPSBwYXJhbXNbMF07CgogICAgICBjbGllbnRzLnB1c2goewogICAgICAgIGNoYW5uZWw6IGNsaWVudElkLAogICAgICAgIGNsaWVudDogd3MsCiAgICAgIH0pOwoKICAgICAgY29uc3QgdG9TZW5kID0gYEpPSU5FRCAke2NsaWVudElkfWA7CiAgICAgIGNvbnNvbGUubG9nKHRvU2VuZCk7Cg==</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5vbm9wZW4gPSBmdW5jdGlvbiAoKSB7CiAgY29uc29sZS5sb2coJ09QRU4nKQogIC8vIGNvbm5lY3Rpb24gaXMgb3BlbmVkIGFuZCByZWFkeSB0byB1c2UKICBjb25uZWN0aW9uLnNlbmQoJ3N1dXV1dXAnKTsKfTsKCmNvbm5lY3Rpb24ub25lcnJvciA9IGZ1bmN0aW9uIChlcnJvcikgewogIC8vIGFuIGVycm9yIG9jY3VycmVkIHdoZW4gc2VuZGluZy9yZWNlaXZpbmcgZGF0YQogIGNvbnNvbGUubG9nKCdFUlJPUicpOwp9OwoKY29ubmVjdGlvbi5vbm1lc3NhZ2UgPSBmdW5jdGlvbiAoeyBkYXRhIH0pIHsKICBjb25zb2xlLmxvZyhkYXRhKTsKfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHAgZnJvbSAnaHR0cCc7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnRScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3cy5vbignbWVzc2FnZScsIGZ1bmN0aW9uKG1lc3NhZ2UpIHsKICAgIGNvbnN0IHsKICAgICAgY21kLAogICAgICBwYXJhbXMsCiAgICB9ID0gcGFyc2VNZXNzYWdlKG1lc3NhZ2UpOwoKICAgIGlmIChjbWQgPT09IEpPSU4pIHsKICAgICAgY29uc3QgY2xpZW50SWQgPSBzaG9ydGlkLmdlbmVyYXRlKCk7CiAgICAgIGNvbnN0IGNoYW5uZWwgPSBwYXJhbXNbMF07CgogICAgICBjbGllbnRzLnB1c2goewogICAgICAgIGNoYW5uZWw6IGNsaWVudElkLAogICAgICAgIGNsaWVudDogd3MsCiAgICAgIH0pOwoKICAgICAgY29uc3QgdG9TZW5kID0gYEpPSU5FRCAke2NsaWVudElkfWA7CiAgICAgIGNvbnNvbGUubG9nKHRvU2VuZCk7CgogICAgICB3cy5zZW5kKHRvU2VuZCk7CiAgICB9CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAvLyB0cnkgdG8gZGVjb2RlIGpzb24gKEkgYXNzdW1lIHRoYXQgZWFjaCBtZXNzYWdlCiAgLy8gZnJvbSBzZXJ2ZXIgaXMganNvbikKICB0cnkgewogICAgdmFyIGpzb24gPSBKU09OLnBhcnNlKG1lc3NhZ2UuZGF0YSk7CiAgfSBjYXRjaCAoZSkgewogICAgY29uc29sZS5sb2coJ1RoaXMgZG9lc25cJ3QgbG9vayBsaWtlIGEgdmFsaWQgSlNPTjogJywKICAgICAgbWVzc2FnZS5kYXRhKTsKICAgIHJldHVybjsKICB9CiAgLy8gaGFuZGxlIGluY29taW5nIG1lc3NhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc2VydmVyID0gaHR0cC5TZXJ2ZXIoYXBwKTsK</text>
+        <text encoding="base64">Y29uc3Qgc29ja2V0ID0gaW8oV1NfVVJMKTsKCnNvY2tldC5vbignY29ubmVjdCcsIGZ1bmN0aW9uKCl7CiAgY29uc29sZS5sb2coJ0NPTk5FQ1QnKTsKfSk7Cgpzb2NrZXQub24oJ2V2ZW50JywgZnVuY3Rpb24oZGF0YSl7CiAgY29uc29sZS5sb2coZGF0YSk7Cn0pOwoKc29ja2V0Lm9uKCdkaXNjb25uZWN0JywgZnVuY3Rpb24oKXsKICBjb25zb2xlLmxvZygnRElTQ09OTkVDVCcpOwp9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvIGZyb20gJ3NvY2tldC5pby1jbGllbnQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaW8gPSBuZXcgU29ja2V0SU8oc2VydmVyLCB7CiAgcGF0aDogJy93cycsCn0pOwoKaW8ub24oJ2Nvbm5lY3Rpb24nLCAoKSA9PiB7CiAgY29uc29sZS5sb2coJ0NPTk5FQ1RJT04nKTsKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFNvY2tldElPIGZyb20gJ3NvY2tldC5pbyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgY21kLAogICAgICBwYXJhbXMsCiAgICB9ID0gcGFyc2VNZXNzYWdlKG1lc3NhZ2UpOwoKICAgIGlmIChjbWQgPT09IEpPSU4pIHsKICAgICAgY29uc3QgY2xpZW50SWQgPSBzaG9ydGlkLmdlbmVyYXRlKCk7CiAgICAgIGNvbnN0IGNoYW5uZWwgPSBwYXJhbXNbMF07CgogICAgICBjbGllbnRzLnB1c2goewogICAgICAgIGNoYW5uZWw6IGNsaWVudElkLAogICAgICAgIGNsaWVudDogd3MsCiAgICAgIH0pOwoKICAgICAgY29uc3QgdG9TZW5kID0gYEpPSU5FRCAke2NsaWVudElkfWA7CiAgICAgIGNvbnNvbGUubG9nKHRvU2VuZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IGh0dHAgZnJvbSAnaHR0cCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -615,6 +600,7 @@
         <entry>ew</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
