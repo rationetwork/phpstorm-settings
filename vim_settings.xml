@@ -484,7 +484,7 @@
       <file name="/JavaScript Console" timestamp="1513350827409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513610659549">
+      <file name="/Dummy.txt" timestamp="1513688083996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/clearchoiceResults/index.js" timestamp="1512397062608">
@@ -558,6 +558,11 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/jenson/src/queries/providerBySlug.js" timestamp="1513688089177">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/client/containers/NavBar/NavBar.scss" timestamp="1512727037012">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="29" />
@@ -626,28 +631,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCA0KSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YXBMb2FuQW1vdW50LCB0YXBMb2FuVGVybSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VuZFN0YXRzKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCA0KSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gaW50ZXJuYWwgbWFuZHJpbGwgZXJyb3IK</text>
+        <text encoding="base64">c2VuZFN0YXRzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGh0bWwgPSByZW5kZXJSZXN1bHRzSHRtbChkYXRhKTsKCiAgICBjb25zdCB7CiAgICAgIG5hbWU6IHJhd05hbWUsCiAgICAgIGVtYWlsLAogICAgICBzb3VyY2UsCiAgICB9ID0gZGF0YTsKCiAgICBjb25zdCBuYW1lID0gdXBwZXJGaXJzdChyYXdOYW1lKTsKCiAgICBjb25zdCBzdWJqZWN0ID0gJ1lvdXIgbG9hbiBlbGlnaWJpbGl0eSByZXN1bHRzJzsKCiAgICBjb25zdCBtZXNzYWdlID0gewogICAgICB0bzogW3sKICAgICAgICBlbWFpbCwKICAgICAgICBuYW1lLAogICAgICB9XSwKICAgICAgaHRtbCwKICAgICAgc3ViamVjdCwKICAgICAgZnJvbV9lbWFpbDogJ2hlbGxvQGNob29zZXdpc2VseS5lbWFpbCcsCiAgICAgIGZyb21fbmFtZTogJ0Nob29zZSBXaXNlbHknLAogICAgICB0YWdzOiBbJ2VsaWdpYmlsaXR5LXJlc3VsdHMtZW1haWwnLCBzb3VyY2VdLAogICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGh0bWwgPSByZW5kZXJSZXN1bHRzSHRtbChkYXRhKTsKCiAgICBjb25zdCB7CiAgICAgIG5hbWU6IHJhd05hbWUsCiAgICAgIGVtYWlsLAogICAgICBzb3VyY2UsCiAgICB9ID0gZGF0YTsKCiAgICBjb25zdCBuYW1lID0gdXBwZXJGaXJzdChyYXdOYW1lKTsKCiAgICBjb25zdCBzdWJqZWN0ID0gJ1lvdXIgbG9hbiBlbGlnaWJpbGl0eSByZXN1bHRzJzsKCiAgICBjb25zdCBtZXNzYWdlID0gewogICAgICB0bzogW3sKICAgICAgICBlbWFpbCwKICAgICAgICBuYW1lLAogICAgICB9XSwKICAgICAgaHRtbCwKICAgICAgc3ViamVjdCwKICAgICAgZnJvbV9lbWFpbDogJ2hlbGxvQGNob29zZXdpc2VseS5lbWFpbCcsCiAgICAgIGZyb21fbmFtZTogJ0Nob29zZSBXaXNlbHknLAogICAgICB0YWdzOiBbJ2VsaWdpYmlsaXR5LXJlc3VsdHMtZW1haWwnLCBzb3VyY2VdLAogICAgfTsKCiAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgLy8gaW50ZXJuYWwgbWFuZHJpbGwgZXJyb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGh0bWwgPSByZW5kZXJSZXN1bHRzSHRtbChkYXRhKTsKCiAgICBjb25zdCB7CiAgICAgIG5hbWU6IHJhd05hbWUsCiAgICAgIGVtYWlsLAogICAgICBzb3VyY2UsCiAgICB9ID0gZGF0YTsKCiAgICBjb25zdCBuYW1lID0gdXBwZXJGaXJzdChyYXdOYW1lKTsKCiAgICBjb25zdCBzdWJqZWN0ID0gJ1lvdXIgbG9hbiBlbGlnaWJpbGl0eSByZXN1bHRzJzsKCiAgICBjb25zdCBtZXNzYWdlID0gewogICAgICB0bzogW3sKICAgICAgICBlbWFpbCwKICAgICAgICBuYW1lLAogICAgICB9XSwKICAgICAgaHRtbCwKICAgICAgc3ViamVjdCwKICAgICAgZnJvbV9lbWFpbDogJ2hlbGxvQGNob29zZXdpc2VseS5lbWFpbCcsCiAgICAgIGZyb21fbmFtZTogJ0Nob29zZSBXaXNlbHknLAogICAgICB0YWdzOiBbJ2VsaWdpYmlsaXR5LXJlc3VsdHMtZW1haWwnLCBzb3VyY2VdLAogICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
