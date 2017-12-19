@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/clearChoiceSlider.js" timestamp="1513338232509">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/rsync-config.json" timestamp="1511270758551">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="81" />
@@ -15,11 +21,10 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/clearChoice.js" timestamp="1511791507989">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/clearChoice.js" timestamp="1513340359196">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/ClearChoice/FormClearChoiceMapper.php" timestamp="1512474339224">
         <mark key="[" line="47" column="19" />
@@ -32,12 +37,17 @@
         <mark key="]" line="251" column="0" />
         <mark key="." line="251" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1512570431219">
-        <mark key="'" line="570" column="0" />
-        <mark key="[" line="588" column="105" />
-        <mark key="]" line="586" column="10" />
-        <mark key="^" line="586" column="10" />
-        <mark key="." line="586" column="10" />
+      <file name="$USER_HOME$/projects/choose-wisely/webpack/entryPoints.js" timestamp="1513338220326">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1513333557245">
+        <mark key="'" line="572" column="0" />
+        <mark key="[" line="581" column="26" />
+        <mark key="]" line="580" column="0" />
+        <mark key="." line="580" column="0" />
+        <mark key="^" line="580" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" timestamp="1513090096426">
         <mark key="'" line="24" column="22" />
@@ -45,11 +55,6 @@
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
         <mark key="^" line="186" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/forms/MultiStageFormWrapper.js" timestamp="1513078190681">
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/css/connect-popover.scss" timestamp="1511969645222">
         <mark key="[" line="157" column="0" />
@@ -62,18 +67,28 @@
         <mark key="." line="241" column="34" />
         <mark key="^" line="241" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" timestamp="1513162603988">
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" timestamp="1513339593421">
         <mark key="'" line="175" column="6" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="121" column="0" />
-        <mark key="." line="115" column="0" />
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="135" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/PagesController.php" timestamp="1513337961503">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_87.json" timestamp="1513265848175">
         <mark key="[" line="45" column="4" />
         <mark key="]" line="45" column="2" />
         <mark key="." line="45" column="2" />
         <mark key="^" line="45" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/abandonmentTracking.js" timestamp="1513338002588">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
         <mark key="[" line="64" column="57" />
@@ -187,43 +202,43 @@
         <text>eligibility</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB7CiAgICAibGVuZGVyTmFtZSI6ICJBbWlnbyIsCiAgICAibGVuZGVyRW50aXR5S2V5IjogImE3NmNkNjNiLTI0ZWQtNDNkYS05OGFjLWMxNGI2NmI4ODRlNSIsCiAgICAibGVuZGVyTG9nbyI6ICJcL1wvc3RhdGljLmZyZWtsLml0XC8yMjBcLzgwXC9odHRwczpcL1wvYXNzZXRzLmNob29zZXdpc2VseS5jby51a1wvbG9nb1wvZW50aXR5XC84NWI1MTkxYS0yZDE0LTQ5MjUtODkxZC03OGFiNDYxOGYzYzEucG5nIgogIH0sCiAgewogICAgImxlbmRlck5hbWUiOiAiVWsgQ3JlZGl0IiwKICAgICJsZW5kZXJFbnRpdHlLZXkiOiAiZTc3NTg4NDAtODI1NS0xMWU3LTkyNWItMDc4ZjU5MGVlNDhmIiwKICAgICJsZW5kZXJMb2dvIjogIlwvXC9zdGF0aWMuZnJla2wuaXRcLzIyMFwvODBcL2h0dHBzOlwvXC9zdGF0aWMuY2hvb3Nld2lzZWx5LmNvLnVrXC9lbnRpdGllc1wvaW1hZ2VzXC91a2NyZWRpdC5wbmciCiAgfSwKICB7CiAgICAibGVuZGVyTmFtZSI6ICJHZW9yZ2UgQmFuY28iLAogICAgImxlbmRlckVudGl0eUtleSI6ICI5OTAyNWEzMy01Nzg1LTRkYzYtYmQxMy05Nzc2OGRiNmUwMjkiLAogICAgImxlbmRlckxvZ28iOiAiaHR0cDpcL1wvc3RhdGljLmZyZWtsLml0XC8yMjBcLzgwXC9odHRwczpcL1wvYXNzZXRzLmNob29zZXdpc2VseS5jby51a1wvbG9nb1wvZW50aXR5XC84MjE1YTBjMi1lMmM5LTQ4YzUtYmFlYS1mODczODYxOWFkNjUucG5nIgogIH0sCiAgewogICAgImxlbmRlck5hbWUiOiAiV29uZ2EiLAogICAgImxlbmRlckVudGl0eUtleSI6ICI2NzdmMmI4OC0xMTM2LTQ4M2EtYTFmYS04NmJiM2I2MDIwNDIiLAogICAgImxlbmRlckxvZ28iOiAiaHR0cDpcL1wvc3RhdGljLmZyZWtsLml0XC8xMDBcLzEwMFwvaHR0cDpcL1wvdmVudHVyYS5yYXRpb25ldHdvcmsuY28udWtcL2Fzc2V0c1wvdXBsb2FkXC9lbnRpdHlcLzIyYTAxNmNjLTJjZWYtNDI1Yy05ZTNhLTZkMWNlMzgxN2U0OS5wbmciCiAgfSwKICB7CiAgICAibGVuZGVyTmFtZSI6ICJIJlQiLAogICAgImxlbmRlckVudGl0eUtleSI6ICJhOGIxNDE3Yi0xYWJhLTQ5YTctYWE1Zi00YzdmMzgyMmQzNWQiLAogICAgImxlbmRlckxvZ28iOiAiaHR0cDpcL1wvc3RhdGljLmZyZWtsLml0XC8xMDBcLzEwMFwvaHR0cHM6XC9cL2Fzc2V0cy5jaG9vc2V3aXNlbHkuY28udWtcL2xvZ29cL2VudGl0eVwvNWJiYTAwMDktN2Q1NC00ZGY4LTkxMWUtYzI5ZjMzYjE3Njc2LnBuZyIKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RvdWJsZV9vcHRpbicgPT4gJGRvdWJsZV9vcHRpbiwKICAgICAgICAgICAgJ3NlbmRfd2VsY29tZScgPT4gJHNlbmRfd2VsY29tZQo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5jdy50cmFja0V2ZW50KCdBcHByb3ZhbCBpbiBwcmluY2lwbGUnLCAnQ2xlYXJjaG9pY2Ugc2hvcnQgdGVybSBsb2FuIHNlYXJjaCByZXN1bHRzJywgJ2FwcHJvdmFsIHJhdGUgJScsIGFwcHJvdmFsUmF0ZSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7CiAgICAibGVuZGVyTmFtZSI6ICJBbWlnbyIsCiAgICAibGVuZGVyRW50aXR5S2V5IjogImE3NmNkNjNiLTI0ZWQtNDNkYS05OGFjLWMxNGI2NmI4ODRlNSIsCiAgICAibGVuZGVyTG9nbyI6ICJcL1wvc3RhdGljLmZyZWtsLml0XC8yMjBcLzgwXC9odHRwczpcL1wvYXNzZXRzLmNob29zZXdpc2VseS5jby51a1wvbG9nb1wvZW50aXR5XC84NWI1MTkxYS0yZDE0LTQ5MjUtODkxZC03OGFiNDYxOGYzYzEucG5nIgogIH0sCiAgewogICAgImxlbmRlck5hbWUiOiAiVWsgQ3JlZGl0IiwKICAgICJsZW5kZXJFbnRpdHlLZXkiOiAiZTc3NTg4NDAtODI1NS0xMWU3LTkyNWItMDc4ZjU5MGVlNDhmIiwKICAgICJsZW5kZXJMb2dvIjogIlwvXC9zdGF0aWMuZnJla2wuaXRcLzIyMFwvODBcL2h0dHBzOlwvXC9zdGF0aWMuY2hvb3Nld2lzZWx5LmNvLnVrXC9lbnRpdGllc1wvaW1hZ2VzXC91a2NyZWRpdC5wbmciCiAgfSwKICB7CiAgICAibGVuZGVyTmFtZSI6ICJHZW9yZ2UgQmFuY28iLAogICAgImxlbmRlckVudGl0eUtleSI6ICI5OTAyNWEzMy01Nzg1LTRkYzYtYmQxMy05Nzc2OGRiNmUwMjkiLAogICAgImxlbmRlckxvZ28iOiAiaHR0cDpcL1wvc3RhdGljLmZyZWtsLml0XC8yMjBcLzgwXC9odHRwczpcL1wvYXNzZXRzLmNob29zZXdpc2VseS5jby51a1wvbG9nb1wvZW50aXR5XC84MjE1YTBjMi1lMmM5LTQ4YzUtYmFlYS1mODczODYxOWFkNjUucG5nIgogIH0sCiAgewogICAgImxlbmRlck5hbWUiOiAiV29uZ2EiLAogICAgImxlbmRlckVudGl0eUtleSI6ICI2NzdmMmI4OC0xMTM2LTQ4M2EtYTFmYS04NmJiM2I2MDIwNDIiLAogICAgImxlbmRlckxvZ28iOiAiaHR0cDpcL1wvc3RhdGljLmZyZWtsLml0XC8xMDBcLzEwMFwvaHR0cDpcL1wvdmVudHVyYS5yYXRpb25ldHdvcmsuY28udWtcL2Fzc2V0c1wvdXBsb2FkXC9lbnRpdHlcLzIyYTAxNmNjLTJjZWYtNDI1Yy05ZTNhLTZkMWNlMzgxN2U0OS5wbmciCiAgfSwKICB7CiAgICAibGVuZGVyTmFtZSI6ICJIJlQiLAogICAgImxlbmRlckVudGl0eUtleSI6ICJhOGIxNDE3Yi0xYWJhLTQ5YTctYWE1Zi00YzdmMzgyMmQzNWQiLAogICAgImxlbmRlckxvZ28iOiAiaHR0cDpcL1wvc3RhdGljLmZyZWtsLml0XC8xMDBcLzEwMFwvaHR0cHM6XC9cL2Fzc2V0cy5jaG9vc2V3aXNlbHkuY28udWtcL2xvZ29cL2VudGl0eVwvNWJiYTAwMDktN2Q1NC00ZGY4LTkxMWUtYzI5ZjMzYjE3Njc2LnBuZyIKICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB7CiAgICAibGVuZGVyTmFtZSI6ICJXb25nYSIsCiAgICAibGVuZGVyRW50aXR5S2V5IjogIjY3N2YyYjg4LTExMzYtNDgzYS1hMWZhLTg2YmIzYjYwMjA0MiIsCiAgICAibGVuZGVyTG9nbyI6ICJodHRwOlwvXC9zdGF0aWMuZnJla2wuaXRcLzEwMFwvMTAwXC9odHRwOlwvXC92ZW50dXJhLnJhdGlvbmV0d29yay5jby51a1wvYXNzZXRzXC91cGxvYWRcL2VudGl0eVwvMjJhMDE2Y2MtMmNlZi00MjVjLTllM2EtNmQxY2UzODE3ZTQ5LnBuZyIKICB9LAogIHsKICAgICJsZW5kZXJOYW1lIjogIkgmVCIsCiAgICAibGVuZGVyRW50aXR5S2V5IjogImE4YjE0MTdiLTFhYmEtNDlhNy1hYTVmLTRjN2YzODIyZDM1ZCIsCiAgICAibGVuZGVyTG9nbyI6ICJodHRwOlwvXC9zdGF0aWMuZnJla2wuaXRcLzEwMFwvMTAwXC9odHRwczpcL1wvYXNzZXRzLmNob29zZXdpc2VseS5jby51a1wvbG9nb1wvZW50aXR5XC81YmJhMDAwOS03ZDU0LTRkZjgtOTExZS1jMjlmMzNiMTc2NzYucG5nIgogIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB7CiAgICAibGVuZGVyTmFtZSI6ICJHZW9yZ2UgQmFuY28iLAogICAgImxlbmRlckVudGl0eUtleSI6ICI5OTAyNWEzMy01Nzg1LTRkYzYtYmQxMy05Nzc2OGRiNmUwMjkiLAogICAgImxlbmRlckxvZ28iOiAiaHR0cDpcL1wvc3RhdGljLmZyZWtsLml0XC8yMjBcLzgwXC9odHRwczpcL1wvYXNzZXRzLmNob29zZXdpc2VseS5jby51a1wvbG9nb1wvZW50aXR5XC84MjE1YTBjMi1lMmM5LTQ4YzUtYmFlYS1mODczODYxOWFkNjUucG5nIgogIH0sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgewogICAgImxlbmRlck5hbWUiOiAiVWsgQ3JlZGl0IiwKICAgICJsZW5kZXJFbnRpdHlLZXkiOiAiZTc3NTg4NDAtODI1NS0xMWU3LTkyNWItMDc4ZjU5MGVlNDhmIiwKICAgICJsZW5kZXJMb2dvIjogIlwvXC9zdGF0aWMuZnJla2wuaXRcLzIyMFwvODBcL2h0dHBzOlwvXC9zdGF0aWMuY2hvb3Nld2lzZWx5LmNvLnVrXC9lbnRpdGllc1wvaW1hZ2VzXC91a2NyZWRpdC5wbmciCiAgfSwK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICB7CiAgICAibGVuZGVyTmFtZSI6ICJBbWlnbyIsCiAgICAibGVuZGVyRW50aXR5S2V5IjogImE3NmNkNjNiLTI0ZWQtNDNkYS05OGFjLWMxNGI2NmI4ODRlNSIsCiAgICAibGVuZGVyTG9nbyI6ICJcL1wvc3RhdGljLmZyZWtsLml0XC8yMjBcLzgwXC9odHRwczpcL1wvYXNzZXRzLmNob29zZXdpc2VseS5jby51a1wvbG9nb1wvZW50aXR5XC84NWI1MTkxYS0yZDE0LTQ5MjUtODkxZC03OGFiNDYxOGYzYzEucG5nIgogIH0s</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgewogIHV0bV9tZWRpdW0sCiAgdXRtX3NvdXJjZSwKfSA9IHF1ZXJ5U3RyaW5nLnBhcnNlKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpOwoKaWYgKHV0bV9tZWRpdW0gJiYgdXRtX21lZGl1bSkgewogIHdpbmRvdy5jdy50cmFja0V2ZW50KCk7CiAgY29uc29sZS5sb2codXRtX3NvdXJjZSwgdXRtX21lZGl1bSk7Cn0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZyc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcnNlZCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBcVjo6amUoJG1haWxDaGltcExpc3RBZGQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFpbENoaW1wTGlzdEFkZCA9ICRtYWlsQ2hpbXAtPmNhbGwoJ2xpc3RzL3N1YnNjcmliZScsICRtYWlsQ2hpbXBDdXN0b21lcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
