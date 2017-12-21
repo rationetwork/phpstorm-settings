@@ -69,6 +69,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/courier/src/bin/sendStats.js" timestamp="1513782893472">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/app/request/requestTransform.js" timestamp="1513181273822">
         <mark key="[" line="0" column="313" />
       </file>
@@ -125,6 +131,9 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_82.json" timestamp="1513860192568">
+        <mark key="[" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/index.js" timestamp="1513164422976">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -135,6 +144,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/sql/customerSecondaryRedirectCount.sql" timestamp="1513700446853">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/app/routes/index.js" timestamp="1513614890524">
         <mark key="[" line="23" column="21" />
@@ -185,11 +200,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/courier/package.json" timestamp="1513674366009">
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="70" column="27" />
-        <mark key="^" line="70" column="27" />
-        <mark key="." line="70" column="27" />
+      <file name="$USER_HOME$/projects/courier/package.json" timestamp="1513782574655">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_81.json" timestamp="1513856835755">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/courier/ecosystem.config.json" timestamp="1513675228797">
         <mark key="[" line="7" column="11" />
@@ -227,11 +248,17 @@
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/routes/saveSecondaryRedirect.js" timestamp="1512556910182">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/projects/clearchoice/app/data/secondaryCount.js" timestamp="1513701530626">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/routes/saveSecondaryRedirect.js" timestamp="1513780119770">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice-dashboard/src/RequestTable/Row/Row.scss" timestamp="1512659423219">
         <mark key="[" line="3" column="0" />
@@ -239,10 +266,10 @@
         <mark key="^" line="47" column="17" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/courier/src/tasks/sendStats/sendStats.js" timestamp="1513677737573">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/projects/courier/src/tasks/sendStats/sendStats.js" timestamp="1513782887838">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
         <mark key="[" line="141" column="0" />
@@ -267,6 +294,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/models/index.js" timestamp="1513781388135">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/client/client.js" timestamp="1512488276706">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="18" />
@@ -284,6 +316,12 @@
         <mark key="]" line="15" column="34" />
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/clearchoice/sql/totalRedirectRate.sql" timestamp="1513863064752">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="57" />
+        <mark key="^" line="28" column="57" />
+        <mark key="." line="28" column="57" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice/app/data/secondaryRedirectCount.js" timestamp="1512660987303">
         <mark key="[" line="3" column="61" />
@@ -315,6 +353,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/routes/forward.js" timestamp="1513775111743">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/css/connect-popover.scss" timestamp="1511969645222">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
@@ -326,11 +369,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/models/redirect.js" timestamp="1512557924505">
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/projects/clearchoice/app/models/redirect.js" timestamp="1513776881134">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
       </file>
       <file name="$USER_HOME$/projects/clearchoice-dashboard/src/RequestTable/goldStar.svg" timestamp="1512650898286">
         <mark key="[" line="2" column="22" />
@@ -356,11 +399,10 @@
         <mark key="^" line="1" column="49" />
         <mark key="." line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/clearchoice/app/redirects.js" timestamp="1512561296046">
-        <mark key="[" line="169" column="34" />
-        <mark key="]" line="170" column="3" />
-        <mark key="^" line="170" column="3" />
-        <mark key="." line="170" column="3" />
+      <file name="$USER_HOME$/projects/clearchoice/app/redirects.js" timestamp="1513781058090">
+        <mark key="[" line="180" column="34" />
+        <mark key="]" line="180" column="34" />
+        <mark key="." line="180" column="34" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
         <mark key="[" line="64" column="57" />
@@ -407,6 +449,7 @@
         <mark key="." line="16" column="77" />
         <mark key="^" line="16" column="77" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/db/createDB.sql" timestamp="1513771697892" />
       <file name="$USER_HOME$/projects/clearchoice/client/containers/ExplorePage/OverviewPage.js" timestamp="1512488131658">
         <mark key="[" line="62" column="15" />
         <mark key="]" line="24" column="0" />
@@ -451,6 +494,12 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_80.json" timestamp="1513856526017" />
+      <file name="$USER_HOME$/projects/courier/src/tasks/clearchoiceResults/clearChoiceResults.js" timestamp="1513856504182">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clearchoice/client/containers/ExplorePage/ExplorePage.js" timestamp="1512486990698">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -484,7 +533,7 @@
       <file name="/JavaScript Console" timestamp="1513350827409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513688083996">
+      <file name="/Dummy.txt" timestamp="1513781478446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/courier/src/tasks/clearchoiceResults/index.js" timestamp="1512397062608">
@@ -558,6 +607,12 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clearchoice/app/models/secondaryRedirect.js" timestamp="1513781378211">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="14" column="66" />
+        <mark key="." line="14" column="66" />
+        <mark key="^" line="14" column="66" />
+      </file>
       <file name="$USER_HOME$/projects/jenson/src/queries/providerBySlug.js" timestamp="1513688089177">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -615,44 +670,44 @@
           <key char="68" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U0VUIEBzdGFydERhdGU9JzIwMTcxMjIxJywgQGVuZERhdGU9JzIwMTcxMjIyJzsKU0VMRUNUClJPVU5EKHRvdGFsUmVkaXJlY3RzIC8gdG90YWxDdXN0b21lcnMgKiAxMDAsIDIpIGFzIHRvdGFsUmVkaXJlY3RSYXRlCkZST00KICAgICgKICAgIFNFTEVDVCBDT1VOVChpZCkgYXMgdG90YWxDdXN0b21lcnMKICAgIEZST00gY3VzdG9tZXJzCiAgICBXSEVSRSBjcmVhdGVkQXQgPiBAc3RhcnREYXRlCiAgICAgICAgICBBTkQgY3JlYXRlZEF0IDwgQGVuZERhdGUKICApIEFTIHRvdGFsQ3VzdG9tZXJzLAooU0VMRUNUCiBDT1VOVCgqKSBhcyB0b3RhbFJlZGlyZWN0cwpGUk9NCiAgKAogICAgU0VMRUNUIGlkCiAgICBGUk9NIGN1c3RvbWVycwogICAgV0hFUkUgY3JlYXRlZEF0ID4gQHN0YXJ0RGF0ZQogICAgICAgICAgQU5EIGNyZWF0ZWRBdCA8IEBlbmREYXRlCiAgKSBBUyBjdXN0b21lcnMKICBJTk5FUiBKT0lOCiAgKAogICAgU0VMRUNUIERJU1RJTkNUIHJlZGlyZWN0SWQKICAgIEZST00KICAgICAgKChTRUxFQ1QgY3VzdG9tZXJJZCBBUyByZWRpcmVjdElkCiAgICAgICAgRlJPTSBzZWNvbmRhcnlSZWRpcmVjdAogICAgICAgIFdIRVJFIHJlZGlyZWN0VGltZSA+IEBzdGFydERhdGUKICAgICAgICAgICAgICBBTkQgcmVkaXJlY3RUaW1lIDwgQGVuZERhdGUpCiAgICAgICBVTklPTiBBTEwKICAgICAgIChTRUxFQ1QgaWQgQVMgcmVkaXJlY3RJZAogICAgICAgIEZST00gcmVkaXJlY3RzCiAgICAgICAgV0hFUkUgY3JlYXRlZEF0ID4gQHN0YXJ0RGF0ZQogICAgICAgICAgICAgIEFORCBjcmVhdGVkQXQgPCBAZW5kRGF0ZSkpIEFTIGFsbFJlZGlyZWN0Q3VzdG9tZXJJZHMKICApIEFTIHIgb24gY3VzdG9tZXJzLmlkID0gci5yZWRpcmVjdElkKSBhcyB0b3RhbFJlZGlyZWN0cw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlnaWJpbGl0eTogaW5mby53b3Jrc2hlZXRzWzNdLAo=</text>
+        <text encoding="base64">ICAgICJzdGF0c0J5VGFnIjogImJhYmVsLW5vZGUgc3JjL2Jpbi9zdGF0c0J5VGFnLmpzIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">U0VUIEBzdGFydERhdGU9JzIwMTcxMjIxJywgQGVuZERhdGU9JzIwMTcxMjIyJzsKU0VMRUNUClJPVU5EKHRvdGFsUmVkaXJlY3RzIC8gdG90YWxDdXN0b21lcnMgKiAxMDAsIDIpIGFzIHRvdGFsUmVkaXJlY3RSYXRlCkZST00KICAgICgKICAgIFNFTEVDVCBDT1VOVChpZCkgYXMgdG90YWxDdXN0b21lcnMKICAgIEZST00gY3VzdG9tZXJzCiAgICBXSEVSRSBjcmVhdGVkQXQgPiBAc3RhcnREYXRlCiAgICAgICAgICBBTkQgY3JlYXRlZEF0IDwgQGVuZERhdGUKICApIEFTIHRvdGFsQ3VzdG9tZXJzLAooU0VMRUNUCiBDT1VOVCgqKSBhcyB0b3RhbFJlZGlyZWN0cwpGUk9NCiAgKAogICAgU0VMRUNUIGlkCiAgICBGUk9NIGN1c3RvbWVycwogICAgV0hFUkUgY3JlYXRlZEF0ID4gQHN0YXJ0RGF0ZQogICAgICAgICAgQU5EIGNyZWF0ZWRBdCA8IEBlbmREYXRlCiAgKSBBUyBjdXN0b21lcnMKICBJTk5FUiBKT0lOCiAgKAogICAgU0VMRUNUIERJU1RJTkNUIHJlZGlyZWN0SWQKICAgIEZST00KICAgICAgKChTRUxFQ1QgY3VzdG9tZXJJZCBBUyByZWRpcmVjdElkCiAgICAgICAgRlJPTSBzZWNvbmRhcnlSZWRpcmVjdAogICAgICAgIFdIRVJFIHJlZGlyZWN0VGltZSA+IEBzdGFydERhdGUKICAgICAgICAgICAgICBBTkQgcmVkaXJlY3RUaW1lIDwgQGVuZERhdGUpCiAgICAgICBVTklPTiBBTEwKICAgICAgIChTRUxFQ1QgaWQgQVMgcmVkaXJlY3RJZAogICAgICAgIEZST00gcmVkaXJlY3RzCiAgICAgICAgV0hFUkUgY3JlYXRlZEF0ID4gQHN0YXJ0RGF0ZQogICAgICAgICAgICAgIEFORCBjcmVhdGVkQXQgPCBAZW5kRGF0ZSkpIEFTIGFsbFJlZGlyZWN0Q3VzdG9tZXJJZHMKICApIEFTIHIgb24gY3VzdG9tZXJzLmlkID0gci5yZWRpcmVjdElkKSBhcyB0b3RhbFJlZGlyZWN0cw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YXBMb2FuQW1vdW50LCB0YXBMb2FuVGVybSk7Cg==</text>
+        <text encoding="base64">ICAgICJ2YWx1ZXMiOiBbCiAgICAgIHsKICAgICAgICAicGFyYW1ldGVyIjogImxvYW5UZXJtIiwKICAgICAgfQogICAgXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCA0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZnJvbSI6IDMsCiAgICAgICAgInRvIjogNgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAobGVuZGVyW0ZdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VuZFN0YXRzKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ0hJJyk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gaW50ZXJuYWwgbWFuZHJpbGwgZXJyb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGh0bWwgPSByZW5kZXJSZXN1bHRzSHRtbChkYXRhKTsKCiAgICBjb25zdCB7CiAgICAgIG5hbWU6IHJhd05hbWUsCiAgICAgIGVtYWlsLAogICAgICBzb3VyY2UsCiAgICB9ID0gZGF0YTsKCiAgICBjb25zdCBuYW1lID0gdXBwZXJGaXJzdChyYXdOYW1lKTsKCiAgICBjb25zdCBzdWJqZWN0ID0gJ1lvdXIgbG9hbiBlbGlnaWJpbGl0eSByZXN1bHRzJzsKCiAgICBjb25zdCBtZXNzYWdlID0gewogICAgICB0bzogW3sKICAgICAgICBlbWFpbCwKICAgICAgICBuYW1lLAogICAgICB9XSwKICAgICAgaHRtbCwKICAgICAgc3ViamVjdCwKICAgICAgZnJvbV9lbWFpbDogJ2hlbGxvQGNob29zZXdpc2VseS5lbWFpbCcsCiAgICAgIGZyb21fbmFtZTogJ0Nob29zZSBXaXNlbHknLAogICAgICB0YWdzOiBbJ2VsaWdpYmlsaXR5LXJlc3VsdHMtZW1haWwnLCBzb3VyY2VdLAogICAgfTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTRU5EJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -679,6 +734,7 @@
         <entry>W</entry>
         <entry>Lw</entry>
         <entry>w\</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
