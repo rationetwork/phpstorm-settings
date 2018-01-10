@@ -43,7 +43,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1513848963612">
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1515588047913">
         <mark key="'" line="561" column="0" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -137,6 +137,9 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
         <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Loansearch.php" timestamp="1515589531465">
+        <mark key="[" line="192" column="38" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/package.json" timestamp="1513006912426">
         <mark key="[" line="55" column="5" />
