@@ -119,16 +119,13 @@
         <mark key="." line="691" column="65" />
         <mark key="^" line="691" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515757546334">
+      <file name="/Dummy.txt" timestamp="1516010442452">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LibraryProductController.php" timestamp="1515590367970">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/testResponse.js" timestamp="1511283282984">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/email/CWMailchimp.php" timestamp="1513951054221">
         <mark key="[" line="101" column="0" />
@@ -160,9 +157,6 @@
         <mark key="^" line="140" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/saveEmailThrottled.js" timestamp="1512989705460">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_86.json" timestamp="1513265700626">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -185,7 +179,6 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_90.json" timestamp="1515590115202" />
     </filemarks>
     <jumps>
       <jump line="23" column="22" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" />
