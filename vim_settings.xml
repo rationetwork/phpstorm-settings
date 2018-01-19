@@ -9,6 +9,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/webpack/webpack.config.dev.js" timestamp="1516115389052">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="49" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/rsync-config.json" timestamp="1511270758551">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="81" />
@@ -32,7 +36,7 @@
         <mark key="^" line="47" column="18" />
         <mark key="." line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/webpack/entryPoints.js" timestamp="1513338220326">
+      <file name="$USER_HOME$/projects/choose-wisely/webpack/entryPoints.js" timestamp="1516108050572">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -43,11 +47,17 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/ClearChoiceController.php" timestamp="1515766189892">
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/ClearChoiceController.php" timestamp="1516202705644">
         <mark key="[" line="215" column="46" />
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
         <mark key="^" line="214" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/webpack3/webpack3.config.common.js" timestamp="1516121431483">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1515588047913">
         <mark key="'" line="561" column="0" />
@@ -67,12 +77,6 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" timestamp="1513339593421">
-        <mark key="'" line="175" column="6" />
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="135" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/PagesController.php" timestamp="1513337961503">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
@@ -90,6 +94,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/webpack3/entryPoints.js" timestamp="1516118151744">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
         <mark key="[" line="64" column="57" />
         <mark key="]" line="64" column="57" />
@@ -100,6 +110,12 @@
         <mark key="]" line="593" column="33" />
         <mark key="^" line="593" column="33" />
         <mark key="." line="593" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/webpack3/webpack.config.js" timestamp="1516113313049">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Courier/ResultsEmail.php" timestamp="1512387202260">
         <mark key="[" line="8" column="137" />
@@ -139,17 +155,28 @@
         <mark key="." line="192" column="51" />
         <mark key="^" line="192" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/package.json" timestamp="1513006912426">
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="55" column="23" />
-        <mark key="." line="55" column="23" />
-        <mark key="^" line="55" column="23" />
+      <file name="$USER_HOME$/projects/choose-wisely/package.json" timestamp="1516116340116">
+        <mark key="[" line="59" column="79" />
+        <mark key="]" line="59" column="79" />
+        <mark key="^" line="59" column="79" />
+        <mark key="." line="59" column="79" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/package.new.json" timestamp="1516108980886">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+        <mark key="^" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/validators/email.js" timestamp="1513000234145">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
         <mark key="^" line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/package.json.bak" timestamp="1516108794587">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
         <mark key="[" line="141" column="0" />
@@ -178,6 +205,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/webpack3/webpack3.config.dev.js" timestamp="1516120317996">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="27" column="43" />
+        <mark key="^" line="27" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/webpack/webpack.config.common.js" timestamp="1516121137939">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -212,43 +249,43 @@
         <text>eligibility</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$applicationWithResponse[&quot;clearChoiceResponse&quot;][&quot;secondaryLenders&quot;];</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
       </register>
-      <register name="0" type="4">
-        <text>$applicationWithResponse[&quot;clearChoiceResponse&quot;][&quot;secondaryLenders&quot;];</text>
+      <register name="0" type="2">
+        <text encoding="base64">CW91dHB1dDogewoJCWZpbGVuYW1lOiAnW25hbWVdLmpzJywKCQlwYXRoOiBvdXRwdXREaXIKCX0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRhbGxMZW5kZXJJZHMKICAgICAqIEBwYXJhbSAkYW1vdW50CiAgICAgKiBAcGFyYW0gJHBlcmlvZAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TGVuZGVyRGF0YSgkYWxsTGVuZGVySWRzLCAkYW1vdW50LCAkcGVyaW9kKQogICAgewogICAgICAgICRjbGllbnQgPSBuZXcgQ2xpZW50KCk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgICRhbGxMZW5kZXJSZXNwb25zZSA9ICRjbGllbnQtPnBvc3QoXENvbmZpZzo6Z2V0KCJjYXJ0ZXIudXJsIikgLiAnL3Byb2R1Y3RzL2NsZWFyQ2hvaWNlL2J5SWQnLCBbImpzb24iID0+IFsKICAgICAgICAgICAgICAgICJwcm9kdWN0SWRzIiA9PiAkYWxsTGVuZGVySWRzLAogICAgICAgICAgICAgICAgImxvYW5BbW91bnQiID0+ICRhbW91bnQsCiAgICAgICAgICAgICAgICAibG9hblRlcm0iID0+ICRwZXJpb2QKICAgICAgICAgICAgXV0pOwogICAgICAgIH0gY2F0Y2ggKFxHdXp6bGVIdHRwXEV4Y2VwdGlvblxDbGllbnRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgXEFwcDo6YWJvcnQoNTAwLCAnU29tZXRoaW5nIGJhZCBoYXBwZW5lZCA0Jyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGFsbExlbmRlclJlc3BvbnNlOwogICAgfQo=</text>
+        <text encoding="base64">ICBvdXRwdXQ6IHsKICAgIHBhdGg6IG91dHB1dERpciwKICAgIGZpbGVuYW1lOiAiW25hbWVdLmpzIgogIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGZpcnN0TmFtZSA9PSBzZWxmOjpNQUdJQykgewogICAgICAgICAgICBmb3JlYWNoICgkbGVuZGVycyBhcyAkaW5kZXggPT4gJGxlbmRlcikgewogICAgICAgICAgICAgICAgaWYgKCRsZW5kZXJzWyRpbmRleF1bJ2lzRWxpZ2libGUnXSkgewogICAgICAgICAgICAgICAgICAgICRsZW5kZXJzWyRpbmRleF1bJ2FwcHJvdmVkJ10gPSB0cnVlOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkbGVuZGVyc1skaW5kZXhdWydhcHByb3ZlZCddID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGlmICgkZmlyc3ROYW1lID09IHNlbGY6Ok1BR0lDX0RFQ0xJTkUpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGxlbmRlcnMgYXMgJGluZGV4ID0+ICRsZW5kZXIpIHsKICAgICAgICAgICAgICAgICRsZW5kZXJzWyRpbmRleF1bJ2FwcHJvdmVkJ10gPSBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKCRmaXJzdE5hbWUgPT0gc2VsZjo6TUFHSUNfTUlYRUQpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGxlbmRlcnMgYXMgJGluZGV4ID0+ICRsZW5kZXIpIHsKICAgICAgICAgICAgICAgIGlmICgkbGVuZGVyc1skaW5kZXhdWydpc0VsaWdpYmxlJ10pIHsKICAgICAgICAgICAgICAgICAgICAkbGVuZGVyc1skaW5kZXhdWydhcHByb3ZlZCddID0gcmFuZCgwLCAxKSA9PSAxOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkbGVuZGVyc1skaW5kZXhdWydhcHByb3ZlZCddID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgJGVudGl0eVR5cGVLZXk7Cg==</text>
+        <text encoding="base64">ICBlbnRyeTogWyIuL3B1YmxpYy9zdGF0aWMvanMvcmVhY3QvY2xlYXJjaG9pY2UvY2xlYXJDaG9pY2UuanMiXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgJGVudGl0eVR5cGU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgJGxhc3RVcGRhdGVkOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgJGNyZWF0ZWREYXRlOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIG91dHB1dERpciA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLy4uL3B1YmxpYy9zdGF0aWMvZGlzdC8nKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBleHRlcm5hbHM6IFsKICAgIHsKICAgICAgd2luZG93OiAnd2luZG93JwogICAgfQogIF0sCiAgb3V0cHV0OiB7CiAgICBmaWxlbmFtZTogJ1tuYW1lXS5qcycsCiAgICBwYXRoOiBvdXRwdXREaXIKICB9LAogIHBsdWdpbnM6IFsKICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLkNvbW1vbnNDaHVua1BsdWdpbih7CiAgICAgIG5hbWVzOiBbJ3ZlbmRvciddIC8vIFNwZWNpZnkgdGhlIGNvbW1vbiBidW5kbGUncyBuYW1lLgogICAgfSksCiAgICBhc3NldHNQbHVnaW5JbnN0YW5jZSwKICBdLAogIGRldnRvb2w6ICdpbmxpbmUtc291cmNlLW1hcCcsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+YXBwbGljYXRpb24tPmdldEFtb3VudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -272,8 +309,8 @@
       </history-search>
       <history-cmd>
         <entry>ew</entry>
-        <entry>W</entry>
         <entry>qw</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
