@@ -9,7 +9,6 @@
         <mark key="^" line="4" column="81" />
         <mark key="." line="4" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/views/pages/about.blade.php" timestamp="1516272834651" />
       <file name="$USER_HOME$/projects/choose-wisely/app/routes/ChooseWisely.php" timestamp="1516287132181">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -50,16 +49,22 @@
         <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/PagesController.php" timestamp="1516357442434">
-        <mark key="[" line="194" column="50" />
-        <mark key="]" line="195" column="49" />
-        <mark key="." line="195" column="49" />
-        <mark key="^" line="195" column="49" />
+        <mark key="[" line="213" column="50" />
+        <mark key="]" line="214" column="49" />
+        <mark key="." line="214" column="49" />
+        <mark key="^" line="214" column="49" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/abandonmentTracking.js" timestamp="1513338002588">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/dummyResponse.js" timestamp="1516974431542">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4157" column="1" />
+        <mark key="^" line="4157" column="1" />
+        <mark key="." line="4157" column="1" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/connectAdoptTtip.blade.php" timestamp="1511969588500">
         <mark key="[" line="64" column="57" />
@@ -72,7 +77,6 @@
         <mark key="^" line="593" column="33" />
         <mark key="." line="593" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Crm/Crm.php" timestamp="1516294250454" />
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/AcceptanceChanceController.php" timestamp="1516285053474">
         <mark key="[" line="171" column="1" />
         <mark key="]" line="170" column="12" />
@@ -84,13 +88,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Loansearch.php" timestamp="1515590776668">
+      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Loansearch.php" timestamp="1516975449537">
         <mark key="[" line="192" column="50" />
         <mark key="]" line="192" column="51" />
         <mark key="." line="192" column="51" />
         <mark key="^" line="192" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/release.sh" timestamp="1516357117429" />
       <file name="$USER_HOME$/projects/choose-wisely/package.new.json" timestamp="1516108980886">
         <mark key="[" line="12" column="58" />
         <mark key="]" line="12" column="58" />
@@ -135,6 +138,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/CompareLoansContainer.js" timestamp="1516974626816">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_88.json" timestamp="1513950074544">
         <mark key="[" line="10" column="31" />
@@ -183,7 +192,7 @@
         <mark key="." line="691" column="65" />
         <mark key="^" line="691" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516288925445">
+      <file name="/Dummy.txt" timestamp="1516975357890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/email/CWMailchimp.php" timestamp="1513951054221">
@@ -214,11 +223,15 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/loans.js" timestamp="1516881403117" />
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/saveEmailOnceThrottled.js" timestamp="1512998188850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/CompareLoansTable.js" timestamp="1516974695645">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/eligibility/EligibilityMultiStageForm.js" timestamp="1516284846653">
         <mark key="[" line="97" column="27" />
@@ -226,7 +239,6 @@
         <mark key="^" line="97" column="25" />
         <mark key="." line="97" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/config/app.php" timestamp="1516290770711" />
     </filemarks>
     <jumps>
       <jump line="23" column="22" filename="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceForm.js" />
@@ -260,7 +272,7 @@
         <text>eligibility</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB0ZXN0ID0gKCkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHRlc3RNZXNzYWdlOiAnY2NjY2NjY2NjJwogICAgfSkKICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>\Config::get('app.customerApi.base') . '/concierge/canWeSendEmailToThisAddress'</text>
@@ -268,32 +280,32 @@
       <register name="/" type="4">
         <text>email</text>
       </register>
-      <register name="0" type="4">
-        <text>concierge.url</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0ZXN0ID0gKCkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHRlc3RNZXNzYWdlOiAnY2NjY2NjY2NjJwogICAgfSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdZRVNUJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDcm06Omluc3QoKS0+dHJhY2tVc2VyKFsKICAgICAgICAgICAgImVtYWlsIiA9PiAkZW1haWwsCiAgICAgICAgICAgICJ0cmFuc2FjdGlvbmFsRW1haWxPcHRPdXQiPT4gMSwKICAgICAgICAgICAgImNhbXBhaWduRW1haWxPcHRPdXQiPT4gIDEKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvbmNpZXJnZSBtYWdpYyBoZXJlIHBsego=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGVtYWlsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAkY2xpZW50ID0gbmV3IFxHdXp6bGVIdHRwXENsaWVudCgpOwoKICAgICAgICAgICAgICAgICR1cmwgPSBcQ29uZmlnOjpnZXQoJ2FwcC5jdXN0b21lckFwaS5iYXNlJyk7CgogICAgICAgICAgICAgICAgJGNsaWVudC0+cG9zdCgkdXJsLCBbCiAgICAgICAgICAgICAgICAgICAgImhlYWRlcnMiID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ3gtY3VzdG9tZXItYXBpLWtleScgPT4gXENvbmZpZzo6Z2V0KCdhcHAuY3VzdG9tZXJBcGkuc2VjcmV0JykKICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICdjb25uZWN0X3RpbWVvdXQnID0+IFxDb25maWc6OmdldCgnYXBwLmN1c3RvbWVyQXBpLnRpbWVvdXQnKQogICAgICAgICAgICAgICAgXSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFxHdXp6bGVIdHRwXEV4Y2VwdGlvblxDbGllbnRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgICAgIFxSb2xsYmFyOjpyZXBvcnRfbWVzc2FnZSgiRmFpbGVkIHRvIHVuc3Vic2NyaWJlIGVtYWlsOiAiIC4gJGVtYWlsICwgJ2Vycm9yJywgWwogICAgICAgICAgICAgICAgICAgICdleGNlcHRpb24nID0+ICRlLT5nZXRNZXNzYWdlKCksCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBDcm06Omluc3QoKS0+dHJhY2tVc2VyKFsKICAgICAgICAgICAgImVtYWlsIiA9PiAkZW1haWwsCiAgICAgICAgICAgICJ0cmFuc2FjdGlvbmFsRW1haWxPcHRPdXQiPT4gMSwKICAgICAgICAgICAgImNhbXBhaWduRW1haWxPcHRPdXQiPT4gIDEKICAgICAgICBdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvbmNpZXJnZSBtYWdpYyBoZXJlIHBsego=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGVtYWlsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAkY2xpZW50ID0gbmV3IFxHdXp6bGVIdHRwXENsaWVudCgpOwoKICAgICAgICAgICAgICAgICR1cmwgPSBcQ29uZmlnOjpnZXQoJ2FwcC5jdXN0b21lckFwaS5iYXNlJyk7CgogICAgICAgICAgICAgICAgJGNsaWVudC0+cG9zdCgkdXJsLCBbCiAgICAgICAgICAgICAgICAgICAgImhlYWRlcnMiID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ3gtY3VzdG9tZXItYXBpLWtleScgPT4gXENvbmZpZzo6Z2V0KCdhcHAuY3VzdG9tZXJBcGkuc2VjcmV0JykKICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICdjb25uZWN0X3RpbWVvdXQnID0+IFxDb25maWc6OmdldCgnYXBwLmN1c3RvbWVyQXBpLnRpbWVvdXQnKQogICAgICAgICAgICAgICAgXSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFxHdXp6bGVIdHRwXEV4Y2VwdGlvblxDbGllbnRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgICAgIFxSb2xsYmFyOjpyZXBvcnRfbWVzc2FnZSgiRmFpbGVkIHRvIHVuc3Vic2NyaWJlIGVtYWlsOiAiIC4gJGVtYWlsICwgJ2Vycm9yJywgWwogICAgICAgICAgICAgICAgICAgICdleGNlcHRpb24nID0+ICRlLT5nZXRNZXNzYWdlKCksCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
