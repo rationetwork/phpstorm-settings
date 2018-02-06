@@ -61,6 +61,12 @@
         <mark key="^" line="593" column="33" />
         <mark key="." line="593" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/monsters_review/adrianhl/monsters/config/app.php" timestamp="1517850423635">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/views/v5/pages/comparison/loanComparison.blade.php" timestamp="1517428665120">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="31" />
@@ -220,7 +226,7 @@
         <mark key="." line="691" column="65" />
         <mark key="^" line="691" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517567545987">
+      <file name="/Dummy.txt" timestamp="1517850635858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/email/CWMailchimp.php" timestamp="1513951054221">
@@ -234,6 +240,12 @@
         <mark key="]" line="31" column="13" />
         <mark key="." line="31" column="13" />
         <mark key="^" line="31" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/monsters_review/adrianhl/monsters/.env" timestamp="1517850456903">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="34" column="21" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="34" column="21" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/validators/email.js" timestamp="1513000234145">
         <mark key="[" line="2" column="9" />
@@ -258,9 +270,11 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/monsters_review/adrianhl/monsters/routes/web.php" timestamp="1517850632576" />
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/CompareLoansTable.js" timestamp="1516974695645">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/monsters_review/adrianhl/monsters/.env.example" timestamp="1517850454012" />
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/eligibility/EligibilityMultiStageForm.js" timestamp="1516284846653">
         <mark key="[" line="97" column="27" />
         <mark key="]" line="97" column="25" />
