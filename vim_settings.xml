@@ -9,16 +9,12 @@
         <mark key="^" line="4" column="81" />
         <mark key="." line="4" column="81" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_99.json" timestamp="1518091902503" />
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/ClearChoice/FormClearChoiceMapper.php" timestamp="1512474339224">
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="18" />
         <mark key="^" line="47" column="18" />
         <mark key="." line="47" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/clearChoice.js" timestamp="1517567398344">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/webpack3/webpack3.config.common.js" timestamp="1516121431483">
         <mark key="[" line="4" column="5" />
@@ -32,22 +28,30 @@
         <mark key="." line="130" column="0" />
         <mark key="^" line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/headTag.blade.php" timestamp="1517566810459">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/LoansController.php" timestamp="1518091302546">
+        <mark key="]" line="539" column="7" />
+        <mark key="^" line="539" column="7" />
+        <mark key="." line="539" column="7" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/ComparisonCell.js" timestamp="1517429973204">
         <mark key="[" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/PagesController.php" timestamp="1517567135649">
-        <mark key="^" line="219" column="49" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" timestamp="1518078903608">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/abandonmentTracking.js" timestamp="1513338002588">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/layouts/clearChoiceHeader.blade.php" timestamp="1518097048740">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/dummyResponse.js" timestamp="1516974431542">
         <mark key="[" line="0" column="0" />
@@ -67,11 +71,11 @@
         <mark key="^" line="41" column="35" />
         <mark key="." line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/views/v5/pages/comparison/loanComparison.blade.php" timestamp="1517921203351">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="29" />
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/v5/pages/comparison/loanComparison.blade.php" timestamp="1518092714420">
+        <mark key="[" line="4" column="80" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/AcceptanceChanceController.php" timestamp="1516285053474">
         <mark key="[" line="171" column="1" />
@@ -79,16 +83,22 @@
         <mark key="." line="170" column="12" />
         <mark key="^" line="170" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Loansearch.php" timestamp="1516975449537">
-        <mark key="[" line="192" column="50" />
-        <mark key="]" line="192" column="51" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_98.json" timestamp="1518090960561">
+        <mark key="[" line="1438" column="0" />
+        <mark key="]" line="1438" column="0" />
+        <mark key="." line="1438" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Loansearch.php" timestamp="1518007632572">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="60" column="28" />
         <mark key="." line="192" column="51" />
         <mark key="^" line="192" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/loans/CompareController.php" timestamp="1517925016714">
-        <mark key="[" line="372" column="0" />
-        <mark key="]" line="372" column="0" />
-        <mark key="." line="372" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/loans/CompareController.php" timestamp="1518093025825">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
+        <mark key="^" line="252" column="34" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/package.new.json" timestamp="1516108980886">
         <mark key="[" line="12" column="58" />
@@ -102,17 +112,23 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanComparisonTable.js" timestamp="1517430424065">
-        <mark key="[" line="32" column="65" />
-        <mark key="]" line="32" column="75" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="32" column="65" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanComparisonTable.js" timestamp="1518107819638">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="42" column="83" />
+        <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/loanComparison.js" timestamp="1517911734230">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/loanComparison.js" timestamp="1517998831547">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/criteriaFields.js" timestamp="1518007118588">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/validators/ukMobileNumber.js" timestamp="1513003416290">
         <mark key="[" line="2" column="0" />
@@ -126,28 +142,43 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/css/variables.scss" timestamp="1518079976960" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/payFrequency.js" timestamp="1517999740634">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/config/concierge.php" timestamp="1516288983984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="2" />
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/employmentStatus.js" timestamp="1517999609635">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/config/compare.php" timestamp="1518092836868" />
       <file name="$USER_HOME$/projects/choose-wisely/composer.json" timestamp="1517428170359">
         <mark key="[" line="47" column="5" />
         <mark key="]" line="47" column="5" />
         <mark key="." line="47" column="5" />
         <mark key="^" line="44" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/creditRatingLookUpIds.js" timestamp="1517999452954">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/clearChoiceSlider.js" timestamp="1513338232509">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/ApiHelper.php" timestamp="1517566876505">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/CompareLoansContainer.js" timestamp="1516974626816">
         <mark key="[" line="21" column="3" />
@@ -161,22 +192,17 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceResults/ClearChoiceResults.js" timestamp="1517567413520">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/ClearChoiceController.php" timestamp="1518078784119">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanSliders.js" timestamp="1517926786889">
-        <mark key="'" line="31" column="23" />
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/libraries/LoanSearchRequiredField.php" timestamp="1517428324608">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceResults/ClearChoiceResults.js" timestamp="1518078980770" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanSliders.js" timestamp="1518084563059">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/ClearChoice/ClearChoiceHelper.php" timestamp="1517391709088">
         <mark key="[" line="179" column="0" />
@@ -184,11 +210,17 @@
         <mark key="." line="179" column="0" />
         <mark key="^" line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/CompareLoansContainer.js" timestamp="1517927136162">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="59" column="3" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/pages/clearchoice/index.blade.php" timestamp="1518078242257">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/layouts/fullWidth.blade.php" timestamp="1518077968581" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/CompareLoansContainer.js" timestamp="1518094592758">
+        <mark key="[" line="143" column="13" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="142" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_87.json" timestamp="1513265848175">
         <mark key="[" line="45" column="4" />
@@ -202,11 +234,27 @@
       <file name="/JavaScript Console" timestamp="1517831873081">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/SelectList.js" timestamp="1518089287309">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/webpack3/entryPoints.js" timestamp="1516118151744">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="3" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="22" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_72.txt" timestamp="1518093747509">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="407" />
+        <mark key="^" line="30" column="60" />
+        <mark key="." line="30" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/ComparisonMore.js" timestamp="1518082022990">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/webpack3/webpack.config.js" timestamp="1516113313049">
         <mark key="[" line="21" column="18" />
@@ -214,7 +262,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/helpers.php" timestamp="1517428087725">
+      <file name="$USER_HOME$/projects/choose-wisely/app/helpers.php" timestamp="1518023164231">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
@@ -226,11 +274,11 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/Slider.js" timestamp="1517926860570">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="28" column="14" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/Slider.js" timestamp="1518085437604">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/sls/loans.js" timestamp="1512394295627">
         <mark key="[" line="692" column="21" />
@@ -238,7 +286,7 @@
         <mark key="." line="691" column="65" />
         <mark key="^" line="691" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517850635858">
+      <file name="/Dummy.txt" timestamp="1518091906076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/email/CWMailchimp.php" timestamp="1513951054221">
@@ -265,16 +313,17 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanSort.js" timestamp="1518090047497">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="^" line="140" column="0" />
         <mark key="." line="141" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceResults/ResultRowStyled.js" timestamp="1517567111138">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/saveEmailOnceThrottled.js" timestamp="1512998188850">
         <mark key="[" line="0" column="0" />
@@ -285,6 +334,12 @@
       <file name="$USER_HOME$/Documents/monsters_review/adrianhl/monsters/app/Console/Commands/GenerateWorld.php" timestamp="1517911035887">
         <mark key="[" line="100" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/residentialStatus.js" timestamp="1518011303073">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/CompareLoansTable.js" timestamp="1516974695645">
         <mark key="[" line="0" column="0" />
       </file>
@@ -293,6 +348,12 @@
         <mark key="]" line="97" column="25" />
         <mark key="^" line="97" column="25" />
         <mark key="." line="97" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/v5/pages/comparison/businessLoanComparison.blade.php" timestamp="1518023234350">
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -322,49 +383,67 @@
       <jump line="287" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_90.json" />
       <jump line="4705" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_90.json" />
       <jump line="25" column="23" filename="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanSliders.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/Slider.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/Slider.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/Slider.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/Slider.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>eligibility</text>
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZ2VyRGVsYXlCeT17MH0K</text>
       </register>
       <register name="-" type="4">
-        <text>minLoanTerm</text>
+        <text encoding="base64">IGZlYXR1cmVkTGVuZGVyID0ganVzdEZlYXR1cmVkWzBd</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBoYW5kbGVVcGRhdGVDcml0ZXJpYSA9IChmaWVsZCkgPT4gewogICAgcmV0dXJuICh2YWx1ZSkgPT4gewogICAgICB0aGlzLnVwZGF0ZUNyaXRlcmlhKGZpZWxkLCB2YWx1ZSk7CiAgICB9CiAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">P3V0bV9jYW1wYWlnbj1EaXJlY3RMaW5rJnV0bV9zb3VyY2U9MjAmdXRtX21lZGl1bT1OZXR3b3JrJnV0bV9jb250ZW50PTAuMDAwMCZyZWZlcmVuY2UxPTMzMTY3NDQ2OCZyZWZlcmVuY2UyPTU5MzQmZW1haWw9JnBob25lPSZtYXJrZXRpbmc9JmhvPSZlcz0mcm9tcD0mbG9jY3I9JmhlPSZtaT0mY3I9NiZsYT0xMDAmZGNjaj1mYWxzZSZjdT1mYWxzZSZsdD0zJmxwPSZvYj10b3RhbENyZWRpdENvc3Qmb2Q9YXNjJmNvYUVudGl0eT0mdGFnS2V5PTMwZTM2MzE3LWY0YzItNDI4Ny1hM2Y4LTZlMTE1MWQ5Njc2NCZyakVudGl0eT1kNjQ1M2Q3Zi0wYWM3LTQ3NTktYWNlYi03ZGEzOGYxMGY3MjYmZGlzcGxheVJqPTE=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZ2VyRGVsYXlCeT17MH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmVhdHVyZWRMZW5kZXJJZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuc2Vjb25kYXJ5TGVuZGVycy5maWx0ZXIobCA9PiBsLmxlbmRlckVudGl0eUtleSA9PT0gdGhpcy5mZWF0dXJlZExlbmRlcklkKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUucHJpbWFyeUxlbmRlcnMuZmlsdGVyKGwgPT4gbC5sZW5kZXJFbnRpdHlLZXkgPT09IHRoaXMuZmVhdHVyZWRMZW5kZXJJZCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcVjo6ZGUoJGNvbXBhcmVQYWdlQ29uZmlnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBcVjo6amUoJHRoaXMtPmRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcVjo6ZGUoJHRoaXMtPnNsdWcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
