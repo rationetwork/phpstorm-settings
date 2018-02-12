@@ -58,11 +58,11 @@
         <mark key="^" line="4157" column="1" />
         <mark key="." line="4157" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/COALenders.js" timestamp="1518186428587">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/COALenders.js" timestamp="1518189422251">
+        <mark key="[" line="3" column="61" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/TrackingController.php" timestamp="1513783508065">
         <mark key="[" line="595" column="35" />
@@ -116,12 +116,6 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanComparisonTable.js" timestamp="1518107819638">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="42" column="83" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/loanComparison.js" timestamp="1517998831547">
         <mark key="[" line="4" column="0" />
@@ -177,6 +171,11 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="44" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/CreditCardsComparisonTable.js" timestamp="1518194311301">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/creditRatingLookUpIds.js" timestamp="1517999452954">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="3" column="20" />
@@ -224,11 +223,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/CompareLoansContainer.js" timestamp="1518186392666">
-        <mark key="[" line="186" column="40" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-        <mark key="^" line="184" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/CompareLoansContainer.js" timestamp="1518194356860">
+        <mark key="[" line="187" column="89" />
+        <mark key="]" line="187" column="38" />
+        <mark key="." line="187" column="38" />
+        <mark key="^" line="187" column="38" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/util/tap2number.js" timestamp="1518184852692">
         <mark key="[" line="0" column="35" />
@@ -247,10 +246,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1517831873081">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/components/SelectList.js" timestamp="1518089287309">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/webpack3/entryPoints.js" timestamp="1516118151744">
         <mark key="[" line="22" column="3" />
@@ -427,7 +422,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZ2VyRGVsYXlCeT17MH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGZlYXR1cmVkTGVuZGVyID0ganVzdEZlYXR1cmVkWzBd</text>
@@ -435,35 +430,35 @@
       <register name="/" type="4">
         <text>email</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFRBUCA9ICd0b3RhbENyZWRpdENvc3QnOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG9uQ2xpY2s9e3RoaXMudG9nZ2xlRm9yY2VTaG93UmVzdWx0c30=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZ2VyRGVsYXlCeT17MH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2PgogICAge30KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPHA+CiAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXt0b2dnbGVGb3JjZVNob3dSZXN1bHRzfT5TaG93IGFsbCByZXN1bHRzPC9idXR0b24+CiAgICAgIDwvcD4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9wVGhyZWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbW9zdEVsaWdpYmxlLmZvckVhY2goKGwpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhsW2xmLk5BTUVdLCBsW2xmLkNPQV0sIGxbbGYuQ09BX1NUUklOR10sIGxbbGYuVEFQX05VTUJFUl0pOwogICAgICB9KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8ZGl2PgogICAge30KICA8L2Rpdj4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNvcnRGaWVsZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNvcnRNYXRjaGVzIGZyb20gJy4uL3V0aWwvbG9hblNvcnQnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9wVGhyZWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
