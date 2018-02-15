@@ -41,6 +41,12 @@
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/ComparisonCell.js" timestamp="1517429973204">
         <mark key="[" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceContainer.js" timestamp="1518541199221">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="91" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/controllers/PagesController.php" timestamp="1518447986427">
         <mark key="[" line="120" column="53" />
         <mark key="]" line="121" column="50" />
@@ -83,6 +89,11 @@
         <mark key="^" line="593" column="33" />
         <mark key="." line="593" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/evolutionMoneyTestResponse.json" timestamp="1518531118653">
+        <mark key="]" line="1491" column="0" />
+        <mark key="^" line="1491" column="0" />
+        <mark key="." line="1491" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/monsters_review/adrianhl/monsters/config/app.php" timestamp="1517850423635">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="35" />
@@ -101,17 +112,22 @@
         <mark key="." line="170" column="12" />
         <mark key="^" line="170" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_98.json" timestamp="1518090960561">
+        <mark key="[" line="1438" column="0" />
+        <mark key="]" line="1438" column="0" />
+        <mark key="." line="1438" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/sortOrders.js" timestamp="1518433085366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/public/static/css/evolutionMoney.scss" timestamp="1518454440660">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-        <mark key="^" line="41" column="30" />
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/css/evolutionMoney.scss" timestamp="1518521268223">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/Loansearch.php" timestamp="1518441112132">
         <mark key="[" line="421" column="133" />
@@ -130,6 +146,11 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/loanComparison.js" timestamp="1518433381707">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/constants/criteriaFields.js" timestamp="1518007118588">
         <mark key="[" line="9" column="27" />
@@ -179,6 +200,11 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="44" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/CreditCardsComparisonTable.js" timestamp="1518194311301">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/css/assetman_manifests/v4Default.scss" timestamp="1518442695920">
         <mark key="[" line="42" column="15" />
         <mark key="]" line="43" column="27" />
@@ -209,17 +235,22 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/app/controllers/ClearChoiceController.php" timestamp="1518078784119">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanSliders.js" timestamp="1518084563059">
         <mark key="[" line="36" column="49" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="36" column="49" />
         <mark key="^" line="36" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/choose-wisely/app/views/pages/evolution-money.blade.php" timestamp="1518516182142">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/projects/choose-wisely/app/views/pages/evolution-money.blade.php" timestamp="1518520803695">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="34" />
+        <mark key="." line="54" column="34" />
+        <mark key="^" line="54" column="34" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/libraries/ClearChoice/ClearChoiceHelper.php" timestamp="1517391709088">
         <mark key="[" line="179" column="0" />
@@ -310,7 +341,7 @@
         <mark key="." line="691" column="65" />
         <mark key="^" line="691" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518447913754">
+      <file name="/Dummy.txt" timestamp="1518522136176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/app/views/includes/mailSignupForm.blade.php" timestamp="1518447266393">
@@ -343,6 +374,11 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/v5/comparison/LoanSort.js" timestamp="1518431214469">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/connect-search-popup.js" timestamp="1511974872435">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
@@ -352,11 +388,22 @@
       <file name="$USER_HOME$/projects/choose-wisely/public/static/evolutionMoney.scss" timestamp="1518442570166">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/ClearChoiceResults/ResultRowStyled.js" timestamp="1518540285135">
+        <mark key="[" line="511" column="0" />
+        <mark key="]" line="511" column="0" />
+        <mark key="." line="511" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/saveEmailOnceThrottled.js" timestamp="1512998188850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/css/clear-choice.scss" timestamp="1518541309679">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/monsters_review/adrianhl/monsters/app/Console/Commands/GenerateWorld.php" timestamp="1517911035887">
         <mark key="[" line="100" column="38" />
@@ -369,6 +416,12 @@
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/compareLoans/CompareLoansTable.js" timestamp="1516974695645">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/clearchoice/evolutionMoneyTestData.json" timestamp="1518536498786">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1436" column="17" />
+        <mark key="^" line="1436" column="17" />
+        <mark key="." line="1436" column="17" />
       </file>
       <file name="$USER_HOME$/projects/choose-wisely/public/static/js/react/eligibility/EligibilityMultiStageForm.js" timestamp="1516284846653">
         <mark key="[" line="97" column="27" />
@@ -438,41 +491,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InZpbWVvLXZpZGVvLW1vYmlsZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby8xOTQ5NTg2NTgiIHdpZHRoPSIyNjAiIGhlaWdodD0iMTQ2IiBmcmFtZWJvcmRlcj0iMCIgd2Via2l0YWxsb3dmdWxsc2NyZWVuIG1vemFsbG93ZnVsbHNjcmVlbiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CQlib3JkZXItcmFkaXVzOiAkYm9yZGVyUmFkaXVzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBodHRwczovL3ZpbWVvLmNvbS8xOTQ5NTg2NTggLS0+Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgdGVzdERhdGEgZnJvbSAnLi9ldm9sdXRpb25Nb25leVRlc3REYXRhLmpzb24nOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>@include('includes.megamenu')
-@include('includes.mobileMenuPanel')</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXBhZGRpbmctYm90dG9tOiAyMDBweDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXBhZGRpbmctYm90dG9tOiAyMTBweDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aWZyYW1lIHNyYz0iaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL3ZpZGVvLzE5NDk1ODY1OCIgd2lkdGg9IjI2MCIgaGVpZ2h0PSIxNDYiIGZyYW1lYm9yZGVyPSIwIiB3ZWJraXRhbGxvd2Z1bGxzY3JlZW4gbW96YWxsb3dmdWxsc2NyZWVuIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2VjdXJlZExvYW5CdWJibGUgPSAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxlbmRlci10eXBlLWJ1YmJsZSI+U2VjdXJlZCBMb2FuPC9kaXY+CiAgICAgICkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZW5kZXItdHlwZS1idWJibGUiPlNlY3VyZWQgTG9hbjwvZGl2Pgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1pbi1oZWlnaHQ6IDEwMHZoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZW5kZXItdHlwZS1idWJibGUiPjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
